@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"62c46be146b9bc38","type":"text","text":"\tThe Tanak","x":-108,"y":-29,"width":250,"height":60},
+		{"id":"392006719aa999bc","type":"file","file":"The Tanak/Nebi'im - Prophets/Nebi'im.md","x":200,"y":-29,"width":400,"height":400},
+		{"id":"2877940eb6cd67b6","type":"file","file":"The Tanak/Kethubim - Writings/Kethubim.md","x":200,"y":400,"width":400,"height":400},
+		{"id":"1b6cf36005acd63b","type":"file","file":"The Tanak/Torah -Teachings/Torah.md","x":200,"y":-380,"width":400,"height":269}
+	],
+	"edges":[
+		{"id":"de09e3a0480b2cb0","fromNode":"62c46be146b9bc38","fromSide":"right","toNode":"1b6cf36005acd63b","toSide":"left"},
+		{"id":"c0f7cafe08227642","fromNode":"62c46be146b9bc38","fromSide":"right","toNode":"392006719aa999bc","toSide":"left"},
+		{"id":"05fde6350dbc4bd1","fromNode":"62c46be146b9bc38","fromSide":"right","toNode":"2877940eb6cd67b6","toSide":"left"}
+	]
+}

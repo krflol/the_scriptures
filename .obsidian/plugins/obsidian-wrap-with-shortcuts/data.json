@@ -1,0 +1,16 @@
+{
+  "wrapperTags": [
+    {
+      "id": "underline",
+      "name": "superscript",
+      "startTag": "<sup>",
+      "endTag": "</sup>"
+    },
+    {
+      "id": "underline",
+      "name": "superscript",
+      "startTag": "<sup>",
+      "endTag": "</sup>"
+    }
+  ]
+}
