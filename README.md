@@ -4,7 +4,7 @@ Everything to this point is hand-typed from The Scriptures, to ensure accuracy t
 
 Some of the note use the Deep Research functionality of Google Gemini. While this function claims to have a very high degree of accuracy, and I do read through and verify it's results to the best of my ability, this fact must be noted and like any thing else on the internet should be taken for what it is. These are separated from The Word for a reason, feel free to ignore them entirely.
 
-The intent is to provide the Word (The Scriptures translation) in a gigital format as well as provide as much deep context as possible within a self-contained framework. We are using https://obsidian.md/ For the project, but the project is intended to be digestible as plain text (.md) files.
+The intent is to provide the Word (The Scriptures translation) in a digital format as well as provide as much deep context as possible within a self-contained framework. We are using https://obsidian.md/ For the project, but the project is intended to be digestible as plain text (.md) files.
 
 The project also contains an HTML text document, and its compiler (python) to view The Scriptures, search etc without needed to have a web server or anything else: It should be compatible with any browser (desktop, web, mobile, raspberry pi.. anything). It will, as a consequence, also contain all of The Scriptures in one document.
 

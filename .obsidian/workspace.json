@@ -16,17 +16,14 @@
                 "id": "3dee39cb9840933c",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "The Tanak/The Tanak.canvas",
-                    "viewState": {
-                      "x": 252.5,
-                      "y": 204.49999999999997,
-                      "zoom": -1.0403116593577488
-                    }
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "The Tanak"
+                  "icon": "lucide-file",
+                  "title": "README"
                 }
               }
             ]
@@ -150,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Tanak/The Tanak.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Tanak"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -226,6 +223,7 @@
   },
   "active": "3dee39cb9840933c",
   "lastOpenFiles": [
+    "The Tanak/The Tanak.canvas",
     "The Tanak/Torah -Teachings/Torah.md",
     "README.md",
     "assets/Pasted image 20250808160032.png",
@@ -252,7 +250,6 @@
     "Maps/Genesis/Gihone/Gihone.md",
     "Maps/Genesis/Gihone",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/1.md",
-    "The Tanak/The Tanak.canvas",
     "Maps/Genesis/Pishone/Pishone.md",
     "Maps/Genesis/Pishone/Pasted image 20250808145053.png",
     "Maps/Genesis/Pishone",
