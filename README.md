@@ -1,0 +1,1 @@
+Welcome. This is a digital Study Bible. The intent is to include the Word (The Scriptures translation) as well as provide as much deep context as possible within a self-contained framework. We are using https://obsidian.md/ For the project, but the project is intended to by digestable as plain text (.md) files.
