@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "README.md",
+                    "file": "Welcome.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "README"
+                  "title": "Welcome"
                 }
               }
             ]
@@ -147,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -220,8 +221,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "ce0369dda5b375e9",
+  "active": "3dee39cb9840933c",
   "lastOpenFiles": [
+    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
+    "Welcome.md",
     "README.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/1.md",
     "assets/Pasted image 20250808154838.png",
@@ -232,10 +235,8 @@
     "assets/Pasted image 20250808160032.png",
     "assets/Pasted image 20250808155816.png",
     "assets/Pasted image 20250808155540.png",
-    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/6.md",
     "margin notes/Nephilim.md",
-    "Welcome.md",
     "48.md",
     "assets/Pasted image 20250808155026.png",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/10.md",
