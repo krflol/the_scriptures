@@ -10,17 +10,17 @@ The project also contains an HTML text document, and its compiler (python) to vi
 
 ***Why obsidian***
 ![[Pasted image 20250808154838.png]]
-![[Pasted image 20250808154925.png]]
-![[Pasted image 20250808155026.png]]
+
+
 
 Obsidian is a helpful tool for establish semantic connections between ideas as well as multi-media display/notes.
 
 ***Why git/github?***
 
 
-![[Pasted image 20250808160032.png]]
-![[Pasted image 20250808155540.png]]
-![[Pasted image 20250808155816.png]]
+
+
+
 
 With the increasing distrust of all things digital (justifiably so), git, and it's online counterpart github, offer not just a convenient way to share the repository, but allows for every change to have a chain of custody, so that any modification must be approved, commited, and is forever open to scrutiny by users and contributors.
 
