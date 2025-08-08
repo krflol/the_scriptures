@@ -9,6 +9,7 @@ The intent is to provide the Word (The Scriptures translation) in a digital form
 The project also contains an HTML text document, and its compiler (python) to view The Scriptures, search etc without needing to have a web server or anything else: It should be compatible with any browser (desktop, web, mobile, raspberry pi.. anything). It will, as a consequence, also contain all of The Scriptures in one document.
 
 ***Why obsidian***
+
 Obsidian is a helpful tool for establish semantic connections between ideas as well as multi-media display/notes.
 <img width="1885" height="959" alt="image" src="https://github.com/user-attachments/assets/2d35d56f-fb76-4b73-8eb0-163e4e3594d3" />
 <img width="1014" height="510" alt="image" src="https://github.com/user-attachments/assets/50fe2a91-835e-4f07-b672-c01c68c79064" />
@@ -19,7 +20,7 @@ Obsidian is a helpful tool for establish semantic connections between ideas as w
 
 
 
-**Why git/github?**
+***Why git/github?***
 
 With the increasing distrust of all things digital (justifiably so), git, and it's online counterpart github, offer not just a convenient way to share the repository, but allows for every change to have a chain of custody, so that any modification must be approved, committed, and is forever open to scrutiny by users and contributors.
 <img width="1896" height="904" alt="image" src="https://github.com/user-attachments/assets/77462010-4d6b-4c78-b003-222a49573dd1" />
