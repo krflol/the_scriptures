@@ -16,30 +16,20 @@
                 "id": "3dee39cb9840933c",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "Welcome.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "The Tanak/The Tanak.canvas",
+                    "viewState": {
+                      "x": 252.5,
+                      "y": 204.49999999999997,
+                      "zoom": -1.0403116593577488
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Welcome"
-                }
-              },
-              {
-                "id": "200620e30d95a3d4",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Maps/Genesis/Pishone/Pasted image 20250808145131.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20250808145131"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "The Tanak"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "4b815682c8c74df0",
@@ -160,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/Genesis/Pishone/Pasted image 20250808145131.png",
+                "file": "The Tanak/The Tanak.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250808145131"
+              "title": "Backlinks for The Tanak"
             }
           },
           {
@@ -234,11 +224,28 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "64a4fd3696d1db09",
+  "active": "3dee39cb9840933c",
   "lastOpenFiles": [
+    "The Tanak/Torah -Teachings/Torah.md",
     "README.md",
-    "Welcome.md",
+    "assets/Pasted image 20250808160032.png",
+    "assets/Pasted image 20250808155816.png",
+    "assets/Pasted image 20250808155540.png",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
+    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/6.md",
+    "margin notes/Nephilim.md",
+    "Welcome.md",
+    "48.md",
+    "assets/Pasted image 20250808155026.png",
+    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/10.md",
+    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/9.md",
+    "assets/Pasted image 20250808154804.png",
+    "assets",
+    "assets/Pasted image 20250808154925.png",
+    "Maps/Genesis/Erek/Erek.md",
+    "assets/Pasted image 20250808154838.png",
+    "Family Tree/Family Tree.canvas",
+    "Maps/Genesis/Pishone/Pasted image 20250808145131.png",
     "Maps/Genesis/Kush(Genisis)/Kush(Genesis 2).md",
     "Maps/Genesis/Kush(Genisis)",
     "Maps/Genesis/Untitled.md",
@@ -247,20 +254,12 @@
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/1.md",
     "The Tanak/The Tanak.canvas",
     "Maps/Genesis/Pishone/Pishone.md",
-    "Maps/Genesis/Pishone/Pasted image 20250808145131.png",
     "Maps/Genesis/Pishone/Pasted image 20250808145053.png",
     "Maps/Genesis/Pishone",
-    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/10.md",
-    "The Tanak/Torah -Teachings/Torah.md",
-    "Maps/Genesis/Erek/Erek.md",
-    "Family Tree/Family Tree.canvas",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/4.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/3.md",
-    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/6.md",
-    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/9.md",
     "Maps/Genesis/Erek/Pasted image 20250808125529.png",
     "Maps/Genesis/Erek",
-    "Maps/Genesis/Erek/Pasted image 20250808125731.png",
     "Family Tree/Nimrod.md",
     "Maps/Genesis",
     "Maps",
@@ -271,12 +270,8 @@
     "Family Tree/Sebteka.md",
     "Family Tree/Ra'mah.md",
     "Family Tree/Sabtah.md",
-    "Family Tree/Seba.md",
-    "Family Tree/Dodanim.md",
-    "Family Tree/Hawilah.md",
     "Family Tree",
     "scripture_viewer/scriptures.json",
-    "scripture_viewer/script.js",
-    "scripture_viewer/style.css"
+    "scripture_viewer/script.js"
   ]
 }
