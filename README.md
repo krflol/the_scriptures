@@ -19,7 +19,8 @@ Obsidian is a helpful tool for establish semantic connections between ideas as w
 
 
 
-***Why git/github?***
+***Why git/github?
+
 With the increasing distrust of all things digital (justifiably so), git, and it's online counterpart github, offer not just a convenient way to share the repository, but allows for every change to have a chain of custody, so that any modification must be approved, committed, and is forever open to scrutiny by users and contributors.
 <img width="1896" height="904" alt="image" src="https://github.com/user-attachments/assets/77462010-4d6b-4c78-b003-222a49573dd1" />
 <img width="955" height="1031" alt="image" src="https://github.com/user-attachments/assets/005b7acc-cf19-4ced-b42e-297c97236a9f" />
