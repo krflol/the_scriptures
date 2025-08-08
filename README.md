@@ -9,7 +9,7 @@ The intent is to provide the Word (The Scriptures translation) in a digital form
 The project also contains an HTML text document, and its compiler (python) to view The Scriptures, search etc without needed to have a web server or anything else: It should be compatible with any browser (desktop, web, mobile, raspberry pi.. anything). It will, as a consequence, also contain all of The Scriptures in one document.
 
 ***Why obsidian***
-![[Pasted image 20250808154838.png]]
+[[Pasted image 20250808160032.png]]
 
 
 
