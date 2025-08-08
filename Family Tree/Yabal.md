@@ -1,0 +1,1 @@
+He was the father of those who dwell in tents, with livestock. Gen 4:20

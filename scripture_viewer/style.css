@@ -1,0 +1,116 @@
+/* General Body & Layout */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    background-color: #fdfdfd;
+    color: #333;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+.pane {
+    padding: 1em;
+    overflow-y: auto;
+    border-left: 1px solid #eee;
+}
+
+/* Navigation Pane */
+.navigation-pane {
+    width: 25%;
+    min-width: 250px;
+    background-color: #f7f7f7;
+    border-left: none;
+}
+
+#navigation-tree ul {
+    list-style-type: none;
+    padding-left: 1em;
+}
+
+#navigation-tree li {
+    cursor: pointer;
+    padding: 4px 0;
+}
+
+.nav-item {
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.nav-item:hover {
+    background-color: #e0e0e0;
+}
+
+.nav-item.active {
+    background-color: #d0d0d0;
+    font-weight: bold;
+}
+
+/* Content Pane */
+.content-pane {
+    width: 50%;
+    flex-grow: 1; /* Takes up remaining space */
+    font-family: "Georgia", serif;
+    font-size: 1.1em;
+    line-height: 1.8;
+}
+
+#chapter-title {
+    font-family: inherit;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 0.5em;
+    margin-top: 0;
+}
+
+.verse {
+    margin-bottom: 1em;
+}
+
+.verse-number {
+    font-weight: bold;
+    font-size: 0.8em;
+    vertical-align: super;
+    margin-right: 0.5em;
+    color: #888;
+}
+
+/* Search Pane */
+.search-pane {
+    width: 25%;
+    min-width: 250px;
+    background-color: #f7f7f7;
+}
+
+#search-input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1em;
+}
+
+.search-result-item {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+}
+
+.search-result-item:hover {
+    background-color: #e9e9e9;
+}
+
+.search-result-item .location {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.search-result-item .text-snippet strong {
+    background-color: #fff2a8;
+}

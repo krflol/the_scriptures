@@ -1,0 +1,17 @@
+/*
+  Final attempt to hide block IDs. This rule targets any link
+  with a data-href that contains a '#' which is how block links
+  are rendered in view mode. This is a broad but powerful rule.
+
+/*
+.markdown-preview-view a.internal-link[data-href*="#"] > .block-link {
+    display: none !important;
+}
+*/
+.markdown-rendered a.internal-link[href*="#"] > .block-link {
+    display: none !important;
+}
+
+.cm-s-obsidian .cm-blockid {
+    display: none !important;
+}
