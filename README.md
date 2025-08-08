@@ -28,7 +28,7 @@ Contributions welcome!
 
 ***Why obsidian***
 
-Obsidian is a helpful tool for establish semantic connections between ideas as well as multi-media display/notes.
+Obsidian is a helpful tool for establishing semantic connections between ideas as well as multi-media display/notes.
 <img width="1885" height="959" alt="image" src="https://github.com/user-attachments/assets/2d35d56f-fb76-4b73-8eb0-163e4e3594d3" />
 <img width="1014" height="510" alt="image" src="https://github.com/user-attachments/assets/50fe2a91-835e-4f07-b672-c01c68c79064" />
 
