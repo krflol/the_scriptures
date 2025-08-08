@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Welcome.md",
+                    "file": "README.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Welcome"
+                  "title": "README"
                 }
               }
             ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -223,8 +223,8 @@
   },
   "active": "3dee39cb9840933c",
   "lastOpenFiles": [
-    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
     "Welcome.md",
+    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
     "README.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/1.md",
     "assets/Pasted image 20250808154838.png",
