@@ -7,7 +7,8 @@ Details:
 
 One of the cradles of civilization. Writing, polititcs etc
 [[Nimrod]]
-[[10|Genesis 10:10]] Here we have a transition from blood-line to political capital as a description
+[[10|Genesis 10:10]] 
+[[Shinar]]
 
 
 

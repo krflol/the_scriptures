@@ -5,4 +5,4 @@ Utils:
 The written name of the Father: יהוה
 
 For searching
-We are geolocating places in the old testament. up next is And the beginning of his reign was Babel
+We are geolocating places in the old testament. up next is And the beginning of his reign was Babel, and Erek, and Akkad, and Kalneh, in the land of Shin'ar

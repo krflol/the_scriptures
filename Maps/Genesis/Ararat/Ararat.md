@@ -1,5 +1,6 @@
 Location: 39.710870577259286, 44.29909529239022
 Confidence: Medium
+Elevation: 15,938.6ft MSL
 
 [[8]]
 

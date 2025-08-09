@@ -49,28 +49,18 @@
             "id": "93eec9e15a1127b2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Maps/Genesis/Babel/Pasted image 20250809144042.png"
+                "file": "Maps/Genesis/Kalneh/Kalneh.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250809144042"
-            }
-          },
-          {
-            "id": "89abd43a35316a3e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Maps/Genesis/Babel/Pasted image 20250809145059.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250809145059"
+              "icon": "lucide-file",
+              "title": "Kalneh"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/Genesis/Babel/Pasted image 20250809145059.png",
+                "file": "Maps/Genesis/Kalneh/Kalneh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250809145059"
+              "title": "Backlinks for Kalneh"
             }
           },
           {
@@ -217,20 +207,35 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "64a4fd3696d1db09",
+  "active": "93eec9e15a1127b2",
   "lastOpenFiles": [
-    "Maps/Genesis/Babel/Pasted image 20250809144042.png",
-    "Maps/Genesis/Babel/Pasted image 20250809145059.png",
+    "Maps/Genesis/Shinar/Shinar.md",
+    "Maps/Genesis/Shinar/Pasted image 20250809161542.png",
+    "Maps/Genesis/Shinar/Pasted image 20250809161424.png",
+    "Maps/Genesis/Shinar/Pasted image 20250809161445.png",
+    "Maps/Genesis/Erek/Erek.md",
     "Maps/Genesis/Babel/Babel.md",
+    "Maps/Genesis/Akkad/Akkad.md",
+    "Family Tree/Nimrod.md",
+    "Maps/Genesis/Kalneh/Kalneh.md",
+    "Maps/Genesis/Ararat/Ararat.md",
+    "Welcome.md",
+    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/10.md",
+    "Maps/Genesis/Kalneh",
+    "Maps/Genesis/Untitled.md",
+    "Maps/Genesis/Akkad",
+    "Maps/Genesis/Shinar.md",
+    "Maps/Genesis/Shinar",
+    "Maps/Genesis/Erek 1.md",
+    "README.md",
+    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/9.md",
+    "Maps/Genesis/Babel/Pasted image 20250809145059.png",
+    "Maps/Genesis/Babel/Pasted image 20250809144042.png",
     "Maps/Genesis/Ararat/Pasted image 20250809124731.png",
     "Pasted image 20250809143937.png",
     "Maps/Genesis/Ashshur/Ashshur.md",
     "Maps/Genesis/Babel",
-    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/10.md",
-    "Welcome.md",
-    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/9.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/8.md",
-    "Maps/Genesis/Ararat/Ararat.md",
     "Maps/Genesis/Ararat/Pasted image 20250809124642.png",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/7.md",
     "Maps/Genesis/Ararat",
@@ -238,33 +243,18 @@
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/5.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/4.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
-    "Maps/Genesis/Erek/Erek.md",
     "margin notes/and every bird after its kind, and every bird of every wing..md",
     "margin notes/Heb -tzippor.md",
     "margin notes/Month.md",
     "margin notes/Cubit is an ancient unit of length, traditionally defined as the distance from the elbow to the tip of the middle finger.md",
-    "margin notes/Pitch, tar or other.md",
-    "margin notes/Nephilim.md",
-    "margin notes/The first record of calling on the Name.md",
-    "margin notes/Lit. In.md",
-    "margin notes/Or reposing or crouching (masculine).md",
-    "margin notes/Or sin-offering (feminine).md",
-    "margin notes/Lit. faces..md",
-    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/3.md",
     "Maps/Genesis/Nod",
     "Maps/Genesis/Euphrates/Pasted image 20250808221653.png",
     "Maps/Genesis/Euphrates/Pasted image 20250808221612.png",
-    "Maps/Genesis/Ashshur/Pasted image 20250808211941.png",
-    "Maps/Genesis/Hiddeqel/Pasted image 20250808203745.png",
-    "Maps/Genesis/Hiddeqel/Pasted image 20250808203655.png",
     "Maps/Genesis/Euphrates",
     "Maps/Genesis/Ashshur",
     "Maps/Genesis/Hiddeqel",
     "The Tanak/The Tanak.canvas",
     "assets",
-    "Family Tree/Family Tree.canvas",
-    "Maps/Genesis/Kush(Genisis)",
-    "Maps/Genesis/Gihone",
-    "Maps/Genesis/Pishone"
+    "Family Tree/Family Tree.canvas"
   ]
 }
