@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
+                    "file": "Maps/Genesis/Ashshur/Ashshur.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "2"
+                  "title": "Ashshur"
                 }
               }
             ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
+                "file": "Maps/Genesis/Ashshur/Ashshur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2"
+              "title": "Backlinks for Ashshur"
             }
           },
           {
@@ -223,15 +223,21 @@
   },
   "active": "3dee39cb9840933c",
   "lastOpenFiles": [
-    "Maps/Genesis/Hiddeqel/Hiddeqel.md",
+    "Pasted image 20250808212009.png",
+    "Pasted image 20250808211941.png",
+    "Maps/Genesis/Erek/Erek.md",
+    "Maps/Genesis/Pishone/Pishone.md",
+    "Maps/Genesis/Ashshur/Ashshur.md",
+    "Welcome.md",
+    "Maps/Genesis/Ashshur",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
+    "Maps/Genesis/Hiddeqel/Hiddeqel.md",
     "margin notes/Or the earth became.md",
     "Pasted image 20250808203745.png",
     "Pasted image 20250808203655.png",
     "margin notes/Nephilim.md",
     "Maps/Genesis/Hiddeqel",
     "Maps/Genesis/Erek/Untitled.md",
-    "Welcome.md",
     "README.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/10.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/1.md",
@@ -248,15 +254,12 @@
     "assets/Pasted image 20250808155026.png",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/9.md",
     "assets",
-    "assets/Pasted image 20250808154925.png",
-    "Maps/Genesis/Erek/Erek.md",
     "Family Tree/Family Tree.canvas",
     "Maps/Genesis/Kush(Genisis)/Kush(Genesis 2).md",
     "Maps/Genesis/Kush(Genisis)",
     "Maps/Genesis/Untitled.md",
     "Maps/Genesis/Gihone/Gihone.md",
     "Maps/Genesis/Gihone",
-    "Maps/Genesis/Pishone/Pishone.md",
     "Maps/Genesis/Pishone",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/4.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/3.md",
@@ -267,9 +270,6 @@
     "Family Tree/Kush.md",
     "Family Tree/Dedan.md",
     "Family Tree/Sheba.md",
-    "Family Tree/Cain's wife.md",
-    "Family Tree/Sebteka.md",
-    "Family Tree",
-    "scripture_viewer/scriptures.json"
+    "Family Tree"
   ]
 }

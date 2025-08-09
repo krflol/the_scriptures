@@ -5,4 +5,4 @@ Utils:
 The written name of the Father: יהוה
 
 For searching
-We are geolocating places in the old testament. up next is Hiddeqel
+We are geolocating places in the old testament. up next is Ashshur
