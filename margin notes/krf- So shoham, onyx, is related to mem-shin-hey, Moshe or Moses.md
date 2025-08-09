@@ -1,3 +1,5 @@
+[[2]]
+
 And YHVH spoke to Moses, saying: "Speak to the children of Israel that they bring me an offering…  
 avnei shoham (stones of onyx), and stones to be set, for the ephod..." Exodus, Shemot, 25:17
 

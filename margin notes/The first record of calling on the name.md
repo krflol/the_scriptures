@@ -1,1 +1,1 @@
-of יהוה
+[[4]] 26 The first record of calling on the Name of יהוה

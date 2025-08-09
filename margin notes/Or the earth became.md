@@ -1,1 +1,1 @@
-[[2|Genesis 2:2]] 
+[[1]] And the earth came to be 

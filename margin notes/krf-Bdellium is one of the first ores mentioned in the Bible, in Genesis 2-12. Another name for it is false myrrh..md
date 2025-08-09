@@ -1,3 +1,5 @@
+
+[[2]]
 Bdellium is one of the first ores mentioned in the Bible, in Genesis 2:12. Another name for it is ‘false myrrh’.
 
 ![](https://qph.cf2.quoracdn.net/main-qimg-a938ccd30602b1f092e7148ecf5974ca-lq)

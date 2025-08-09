@@ -1,3 +1,7 @@
+
+[[3]] Kerubim
+
+
 # The Hebrew Meaning of the ‘Guardians of the Garden of Eden’: Revealing the Cherubim’s Grasp
 
 ![](https://www.hebrewversity.com/wp-content/uploads/2018/03/John_Martin_-_Sodom_and_Gomorrah-1024x655.jpg)

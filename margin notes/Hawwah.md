@@ -1,3 +1,5 @@
+[[3]]
+
 **Mother of all the living**– Previous investigation of the crucial story (see [_Guardian Angel_)](https://skipmoen.com/books-audio/guardian-angel/) helped us see that the name given to the woman by Adam was certainly not uplifting.  In fact, there are reasons to believe that the real Hebrew name (_Hawwah_) means something quite derogatory.[1]  The narrator suggests the meaning “mother of all living” as the alternative, but its derivation from the original _Hawwah_ is a stretch at best.  If the original audience knew that _Hawwah_ meant a connection to the verb _hayah_, the explanation of the name would not have been necessary.
 
 Typically we think that “mother of all living” is a statement about procreation.  Eve is the mother of all living because, in the ultimate sense of the Genesis account, everyone who is ever born can trace the birth back to Eve, the first to give birth to human beings. This is undoubtedly the reason so many commentators try to link _Hawwah_ to Hebrew words for life or living.  But perhaps in our attempts to give “Eve” a positive slant, we have overlooked something important about being “the mother of all living.”

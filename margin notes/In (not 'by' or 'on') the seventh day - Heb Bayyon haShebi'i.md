@@ -1,1 +1,1 @@
-[[1|Genesis 1:1]]
+[[2]]"And in the seventh day"
