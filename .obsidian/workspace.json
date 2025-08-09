@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maps/Genesis/Kalneh/Kalneh.md",
+                "file": "Maps/Genesis/Ashshur/Ashshur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalneh"
+              "title": "Ashshur"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/Genesis/Kalneh/Kalneh.md",
+                "file": "Maps/Genesis/Ashshur/Ashshur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kalneh"
+              "title": "Backlinks for Ashshur"
             }
           },
           {
@@ -209,6 +209,8 @@
   },
   "active": "93eec9e15a1127b2",
   "lastOpenFiles": [
+    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/10.md",
+    "Maps/Genesis/Kalneh/Kalneh.md",
     "Maps/Genesis/Shinar/Shinar.md",
     "Maps/Genesis/Shinar/Pasted image 20250809161542.png",
     "Maps/Genesis/Shinar/Pasted image 20250809161424.png",
@@ -217,10 +219,8 @@
     "Maps/Genesis/Babel/Babel.md",
     "Maps/Genesis/Akkad/Akkad.md",
     "Family Tree/Nimrod.md",
-    "Maps/Genesis/Kalneh/Kalneh.md",
     "Maps/Genesis/Ararat/Ararat.md",
     "Welcome.md",
-    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/10.md",
     "Maps/Genesis/Kalneh",
     "Maps/Genesis/Untitled.md",
     "Maps/Genesis/Akkad",
