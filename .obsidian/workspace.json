@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Maps/Genesis/Ashshur/Ashshur.md",
+                    "file": "Maps/Genesis/Euphrates/Euphrates.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Ashshur"
+                  "title": "Euphrates"
                 }
               }
             ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maps/Genesis/Ashshur/Ashshur.md",
+                "file": "Maps/Genesis/Euphrates/Euphrates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ashshur"
+              "title": "Backlinks for Euphrates"
             }
           },
           {
@@ -221,20 +221,27 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3dee39cb9840933c",
+  "active": "64a4fd3696d1db09",
   "lastOpenFiles": [
-    "Pasted image 20250808212009.png",
-    "Pasted image 20250808211941.png",
-    "Maps/Genesis/Erek/Erek.md",
+    "Maps/Genesis/Euphrates/Pasted image 20250808221653.png",
+    "Maps/Genesis/Euphrates/Pasted image 20250808221612.png",
+    "Maps/Genesis/Hiddeqel/Hiddeqel.md",
     "Maps/Genesis/Pishone/Pishone.md",
+    "Maps/Genesis/Euphrates/Euphrates.md",
+    "Maps/Genesis/Ashshur/Pasted image 20250808211941.png",
+    "Maps/Genesis/Hiddeqel/Pasted image 20250808203745.png",
+    "Maps/Genesis/Hiddeqel/Pasted image 20250808203655.png",
+    "Maps/Genesis/Ashshur/Pasted image 20250808212009.png",
+    "Pasted image 20250808161829.png",
     "Maps/Genesis/Ashshur/Ashshur.md",
+    "Maps/Genesis/Erek/Erek.md",
+    "Maps/Genesis/Euphrates",
+    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
+    "Maps/Genesis/Kush(Genisis)/Kush(Genesis 2).md",
+    "margin notes/krf-Bdellium is one of the first ores mentioned in the Bible, in Genesis 2-12. Another name for it is false myrrh..md",
     "Welcome.md",
     "Maps/Genesis/Ashshur",
-    "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/2.md",
-    "Maps/Genesis/Hiddeqel/Hiddeqel.md",
     "margin notes/Or the earth became.md",
-    "Pasted image 20250808203745.png",
-    "Pasted image 20250808203655.png",
     "margin notes/Nephilim.md",
     "Maps/Genesis/Hiddeqel",
     "Maps/Genesis/Erek/Untitled.md",
@@ -242,20 +249,16 @@
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/10.md",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/1.md",
     "assets/Pasted image 20250808154838.png",
-    "Pasted image 20250808161829.png",
     "assets/Pasted image 20250808154804.png",
     "The Tanak/The Tanak.canvas",
     "The Tanak/Torah -Teachings/Torah.md",
     "assets/Pasted image 20250808160032.png",
     "assets/Pasted image 20250808155816.png",
-    "assets/Pasted image 20250808155540.png",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/6.md",
     "48.md",
-    "assets/Pasted image 20250808155026.png",
     "The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/9.md",
     "assets",
     "Family Tree/Family Tree.canvas",
-    "Maps/Genesis/Kush(Genisis)/Kush(Genesis 2).md",
     "Maps/Genesis/Kush(Genisis)",
     "Maps/Genesis/Untitled.md",
     "Maps/Genesis/Gihone/Gihone.md",
@@ -267,9 +270,6 @@
     "Family Tree/Nimrod.md",
     "Maps/Genesis",
     "Maps",
-    "Family Tree/Kush.md",
-    "Family Tree/Dedan.md",
-    "Family Tree/Sheba.md",
-    "Family Tree"
+    "Family Tree/Kush.md"
   ]
 }
