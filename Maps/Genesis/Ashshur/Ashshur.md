@@ -5,7 +5,11 @@ Elevation:
 Confidence: High
 Details:
 
+Genesis:
 [[2]]
+[[10|Genesis 10:11]] 
+
+
 
 ![[Pasted image 20250808211941.png]]
 
