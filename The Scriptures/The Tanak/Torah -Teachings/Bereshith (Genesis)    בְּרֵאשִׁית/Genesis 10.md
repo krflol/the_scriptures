@@ -17,3 +17,4 @@
 <sup>18</sup>and the Arwadite, and the Tsemarite, and the Hamathite. And afterward the clans of the Kena'anites where spread abroad.
 <sup>19</sup>And the border of the Kena'anites was from Tsidon as you go toward Gerar, as far as Azzah, as you go toward Sedom, and Amorah, and Admah, and Tseboyim, as far as Lasha.
 <sup>20</sup>These were the sons of Ham, according to their clans, according to their languages, in their lands, in their nations.
+<sup>21</sup>And also to Shem, the father of all the children of Eber, the brother of Yepheth the elder, *children* were born

@@ -40,12 +40,14 @@
                 "id": "0b52bc19baef416a",
                 "type": "leaf",
                 "state": {
-                  "type": "image",
+                  "type": "markdown",
                   "state": {
-                    "file": "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png"
+                    "file": "Notes/Maps/Genesis/Canaan Borders/Canaan Borders Genesis 10.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20250809225950"
+                  "icon": "lucide-file",
+                  "title": "Canaan Borders Genesis 10"
                 }
               }
             ]
@@ -146,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
+                "file": "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250809225950"
+              "title": "Backlinks for Genesis 10"
             }
           },
           {
@@ -220,18 +222,20 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "64a4fd3696d1db09",
+  "active": "460dda6f3cb2f0f6",
   "lastOpenFiles": [
+    "Notes/Maps/Genesis/Canaan Borders/Canaan Borders Genesis 10.md",
+    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 2.md",
+    "Notes/Maps/Genesis/Euphrates/Euphrates.md",
+    "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
     "The Scriptures/The Tanak/The Tanak.canvas",
     "Notes",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 1.md",
     "Notes/margin notes/Margin Notes.md",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 10.md",
     "Notes/Tribes and Peoples/Canaanite clans/Arwadite/Arwadite.md",
-    "Notes/Maps/Genesis/Canaan Borders/Canaan Borders Genesis 10.md",
     "The Scriptures",
     "Notes/Maps/Genesis/Shinar/Shinar.md",
-    "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
     "Hebel.md",
     "The first record of calling on The name of יהוה.md",
     "Maps/Genesis/Canaan Borders/WinTAK.10.035812.kml",
@@ -248,7 +252,6 @@
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 5.md",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 4.md",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 3.md",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 2.md",
     "Notes/Tribes and Peoples/Canaanite clans/Arqite/Arqite.md",
     "Family Tree/Untitled.md",
     "Notes/Tribes and Peoples/Canaanite clans/Hamathite/Hamathite.md",
