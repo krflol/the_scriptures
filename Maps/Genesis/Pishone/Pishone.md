@@ -1,7 +1,7 @@
 
 Wadi Bishah
 Confidence:Medium
-# 19°53'56.5"N 42°32'54.9"E
+# 19°53'56.5"N 42° '54.9"E
 [[2]]
 
 
