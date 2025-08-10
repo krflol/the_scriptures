@@ -18,7 +18,7 @@
                 "state": {
                   "type": "canvas",
                   "state": {
-                    "file": "Family Tree/Family Tree.canvas",
+                    "file": "Notes/Family Tree/Family Tree.canvas",
                     "viewState": {
                       "x": 5736.667663533631,
                       "y": 3391.086931545824,
@@ -40,17 +40,12 @@
                 "id": "0b52bc19baef416a",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "image",
                   "state": {
-                    "file": "The Scriptures/The Tanak/The Tanak.canvas",
-                    "viewState": {
-                      "x": 286,
-                      "y": 8.661424294913672,
-                      "zoom": -1.6355507994888143
-                    }
+                    "file": "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png"
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "The Tanak"
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20250809225950"
                 }
               }
             ]
@@ -151,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Scriptures/The Tanak/Torah -Teachings/Torah.md",
+                "file": "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Torah"
+              "title": "Backlinks for Pasted image 20250809225950"
             }
           },
           {
@@ -225,25 +220,27 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0b52bc19baef416a",
+  "active": "64a4fd3696d1db09",
   "lastOpenFiles": [
+    "The Scriptures/The Tanak/The Tanak.canvas",
+    "Notes",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 1.md",
-    "margin notes/Margin Notes.md",
+    "Notes/margin notes/Margin Notes.md",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 10.md",
-    "Tribes and Peoples/Canaanite clans/Arwadite/Arwadite.md",
-    "Maps/Genesis/Canaan Borders/Canaan Borders Genesis 10.md",
+    "Notes/Tribes and Peoples/Canaanite clans/Arwadite/Arwadite.md",
+    "Notes/Maps/Genesis/Canaan Borders/Canaan Borders Genesis 10.md",
     "The Scriptures",
-    "Maps/Genesis/Shinar/Shinar.md",
-    "Pasted image 20250809225950.png",
+    "Notes/Maps/Genesis/Shinar/Shinar.md",
+    "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
     "Hebel.md",
     "The first record of calling on The name of יהוה.md",
     "Maps/Genesis/Canaan Borders/WinTAK.10.035812.kml",
     "Maps/Genesis/Canaan Borders/WinTAK.10.035555.kml",
     "Maps/Genesis/Canaan Borders/WinTAK.10.035530.kmz",
     "Maps/Genesis/Canaan Borders/Pasted image 20250809224859.png",
-    "Maps/Genesis/Canaan Borders/canaangen10.kml",
+    "Notes/Maps/Genesis/Canaan Borders/canaangen10.kml",
     "Maps/Genesis/Canaan Borders/canaangen10",
-    "Maps/Genesis/Canaan Borders",
+    "Notes/Maps/Genesis/Canaan Borders",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 9.md",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 8.md",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 7.md",
@@ -252,28 +249,25 @@
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 4.md",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 3.md",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 2.md",
-    "Tribes and Peoples/Canaanite clans/Arqite/Arqite.md",
+    "Notes/Tribes and Peoples/Canaanite clans/Arqite/Arqite.md",
     "Family Tree/Untitled.md",
-    "Tribes and Peoples/Canaanite clans/Hamathite/Hamathite.md",
-    "Tribes and Peoples/Canaanite clans/Tsemarite/Tsemarite.md",
-    "Tribes and Peoples/Canaanite clans/Hamathite",
-    "Tribes and Peoples/Canaanite clans/Tsemarite",
-    "Tribes and Peoples/Canaanite clans/Hiwwite/Hiwwite.md",
-    "Tribes and Peoples/Canaanite clans/Arwadite",
-    "Tribes and Peoples/Canaanite clans/Sinite/Sinites.md",
-    "Tribes and Peoples/Canaanite clans/Girgashite/Girgashite.md",
-    "Tribes and Peoples/Canaanite clans/Amorite/Amorite.md",
-    "Tribes and Peoples/Canaanite clans/Yebusites/Yebusite.md",
-    "Family Tree/Heth.md",
-    "Family Tree/Family Tree.canvas",
-    "Maps/Genesis/Resen/Pasted image 20250809211711.png",
-    "Maps/Genesis/Resen/Pasted image 20250809211839.png",
-    "Maps/Genesis/Nineweh/Pasted image 20250809195522.png",
-    "Maps/Genesis/Nineweh/Pasted image 20250809195330.png",
-    "Maps/Genesis/Shinar/Pasted image 20250809161424.png",
-    "Maps/Genesis/Pishone/Pasted image 20250808145053.png",
-    "Maps/Genesis/Shinar/Pasted image 20250809161542.png",
-    "Maps/Genesis/Shinar/Pasted image 20250809161445.png",
-    "The Scriptures/The Tanak/The Tanak.canvas"
+    "Notes/Tribes and Peoples/Canaanite clans/Hamathite/Hamathite.md",
+    "Notes/Tribes and Peoples/Canaanite clans/Tsemarite/Tsemarite.md",
+    "Notes/Tribes and Peoples/Canaanite clans/Hamathite",
+    "Notes/Tribes and Peoples/Canaanite clans/Tsemarite",
+    "Notes/Tribes and Peoples/Canaanite clans/Hiwwite/Hiwwite.md",
+    "Notes/Tribes and Peoples/Canaanite clans/Sinite/Sinites.md",
+    "Notes/Tribes and Peoples/Canaanite clans/Girgashite/Girgashite.md",
+    "Notes/Tribes and Peoples/Canaanite clans/Amorite/Amorite.md",
+    "Notes/Tribes and Peoples/Canaanite clans/Yebusites/Yebusite.md",
+    "Notes/Family Tree/Family Tree.canvas",
+    "Notes/Maps/Genesis/Resen/Pasted image 20250809211711.png",
+    "Notes/Maps/Genesis/Resen/Pasted image 20250809211839.png",
+    "Notes/Maps/Genesis/Nineweh/Pasted image 20250809195522.png",
+    "Notes/Maps/Genesis/Nineweh/Pasted image 20250809195330.png",
+    "Notes/Maps/Genesis/Shinar/Pasted image 20250809161424.png",
+    "Notes/Maps/Genesis/Pishone/Pasted image 20250808145053.png",
+    "Notes/Maps/Genesis/Shinar/Pasted image 20250809161542.png",
+    "Notes/Maps/Genesis/Shinar/Pasted image 20250809161445.png"
   ]
 }
