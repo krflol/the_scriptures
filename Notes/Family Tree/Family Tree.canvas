@@ -29,7 +29,6 @@
 		{"id":"fea826fd70fa6144","type":"file","file":"Notes/Family Tree/Tubal.md","x":1720,"y":2840,"width":260,"height":76},
 		{"id":"b34e3b5a2b17800b","type":"file","file":"Notes/Family Tree/Meshek.md","x":1980,"y":2840,"width":260,"height":76},
 		{"id":"80d2ef0713963b29","type":"file","file":"Notes/Family Tree/Tiras.md","x":2240,"y":2840,"width":200,"height":76},
-		{"id":"f1a75205a13f193c","type":"file","file":"Notes/Family Tree/Shem.md","x":-560,"y":2476,"width":400,"height":77},
 		{"id":"2e96da9a2594b9ba","type":"file","file":"Notes/Family Tree/Gomer.md","x":-96,"y":2840,"width":210,"height":76},
 		{"id":"3523090191f34f6e","type":"file","file":"Notes/Family Tree/Magog.md","x":346,"y":2840,"width":188,"height":76},
 		{"id":"fa5625d9e795a2b0","type":"file","file":"Notes/Family Tree/Madai.md","x":614,"y":2840,"width":240,"height":76},
@@ -57,11 +56,12 @@
 		{"id":"5ef64877b994f72f","type":"file","file":"Notes/Family Tree/Lehabim.md","x":7433,"y":3120,"width":400,"height":80},
 		{"id":"a237d3ea0784afd0","type":"file","file":"Notes/Family Tree/Naphtumim.md","x":7913,"y":3120,"width":400,"height":80},
 		{"id":"bf88e391d3c8b7a0","type":"file","file":"Notes/Family Tree/Put.md","x":9313,"y":2884,"width":200,"height":80},
-		{"id":"9e87a63f3e808146","x":8385,"y":3120,"width":400,"height":80,"type":"file","file":"Notes/Family Tree/Pathrusim.md"},
-		{"id":"84e875188aac8d33","x":8913,"y":3120,"width":400,"height":80,"type":"file","file":"Notes/Family Tree/Kasluhim.md"},
+		{"id":"9e87a63f3e808146","type":"file","file":"Notes/Family Tree/Pathrusim.md","x":8385,"y":3120,"width":400,"height":80},
+		{"id":"84e875188aac8d33","type":"file","file":"Notes/Family Tree/Kasluhim.md","x":8913,"y":3120,"width":400,"height":80},
 		{"id":"f199204a03cc9a2e","type":"file","file":"Notes/Family Tree/Kena'an.md","x":3120,"y":2836,"width":220,"height":80},
-		{"id":"fe061e1b381e8fb5","x":2720,"y":3120,"width":400,"height":80,"type":"file","file":"Notes/Family Tree/Heth.md"},
-		{"id":"d4d6fa0bdcf18030","x":3230,"y":3120,"width":400,"height":80,"type":"file","file":"Notes/Family Tree/Tsidon.md"}
+		{"id":"fe061e1b381e8fb5","type":"file","file":"Notes/Family Tree/Heth.md","x":2720,"y":3120,"width":400,"height":80},
+		{"id":"d4d6fa0bdcf18030","type":"file","file":"Notes/Family Tree/Tsidon.md","x":3230,"y":3120,"width":400,"height":80},
+		{"id":"f1a75205a13f193c","type":"file","file":"Notes/Family Tree/Shem.md","x":-2080,"y":2476,"width":400,"height":77}
 	],
 	"edges":[
 		{"id":"d2b1db04929310b8","fromNode":"2ad32c77223f7e56","fromSide":"bottom","toNode":"3d984c36e11406fc","toSide":"top"},
