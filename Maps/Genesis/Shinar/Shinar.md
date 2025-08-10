@@ -1,4 +1,4 @@
-[[10|Genesis 10:10]]
+[[Genesis 10|Genesis 10:10]]
 [[Nimrod]]
 [[Akkad]]
 [[Babel]]

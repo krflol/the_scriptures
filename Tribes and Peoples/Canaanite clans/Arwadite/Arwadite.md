@@ -1,4 +1,4 @@
-[[10|Genesis 10:18]]
+[[Genesis 10|Genesis 10:18]]
 
 ### The Arwadite
 

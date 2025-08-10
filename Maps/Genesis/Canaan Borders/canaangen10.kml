@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Borders of the Canaanites (Genesis 10:19)</name>
+    <description>A map outlining the territory of the Canaanites as described in the biblical text. WinTAK Compatible Version.</description>
+
+    <!-- Style for Placemark Pushpins -->
+    <Style id="pushpinStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+
+    <!-- Style for Western Border Line -->
+    <Style id="westernBorderStyle">
+      <LineStyle>
+        <color>ff0000ff</color> <!-- Red -->
+        <width>3</width>
+      </LineStyle>
+    </Style>
+
+    <!-- Style for Eastern Border Line -->
+    <Style id="easternBorderStyle">
+      <LineStyle>
+        <color>ffff0000</color> <!-- Blue -->
+        <width>3</width>
+      </LineStyle>
+    </Style>
+
+    <!-- Style for the Territory Polygon -->
+    <Style id="territoryPolygonStyle">
+      <LineStyle>
+        <width>2</width>
+        <color>ff000000</color> <!-- Black Outline -->
+      </LineStyle>
+      <PolyStyle>
+        <color>8000ffff</color> <!-- Semi-transparent Yellow Fill -->
+      </PolyStyle>
+    </Style>
+
+    <Folder>
+      <name>Canaanite Borders</name>
+      
+      <!-- Placemarks for Individual Cities and Locations -->
+      <Placemark>
+        <name>Tsidon (Sidon)</name>
+        <styleUrl>#pushpinStyle</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>35.3756,33.5586</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gerar (Proposed Location)</name>
+        <styleUrl>#pushpinStyle</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>34.6100,31.3811</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azzah (Gaza)</name>
+        <styleUrl>#pushpinStyle</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>34.4667,31.5</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cities of the Plain (Sodom, etc.)</name>
+        <styleUrl>#pushpinStyle</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>35.5300,31.2400</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lasha (Proposed Location)</name>
+        <styleUrl>#pushpinStyle</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>35.6100,31.5800</coordinates>
+        </Point>
+      </Placemark>
+
+      <!-- Boundary Line 1: Western/Southern Border -->
+      <Placemark>
+        <name>Western Border (Sidon to Gaza)</name>
+        <styleUrl>#westernBorderStyle</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            35.3756,33.5586
+            34.6100,31.3811
+            34.4667,31.5
+          </coordinates>
+        </LineString>
+      </Placemark>
+
+      <!-- Boundary Line 2: Eastern Border -->
+      <Placemark>
+        <name>Eastern Border (Cities of the Plain to Lasha)</name>
+        <styleUrl>#easternBorderStyle</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates>
+            35.5300,31.2400
+            35.6100,31.5800
+          </coordinates>
+        </LineString>
+      </Placemark>
+
+      <!-- Polygon showing the overall territory -->
+      <Placemark>
+        <name>Approximate Canaanite Territory</name>
+        <styleUrl>#territoryPolygonStyle</styleUrl>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                35.3756,33.5586 <!-- Sidon -->
+                34.4667,31.5   <!-- Gaza -->
+                35.5300,31.2400 <!-- Cities of the Plain -->
+                35.6100,31.5800 <!-- Lasha -->
+                35.3756,33.5586 <!-- Sidon (to close polygon) -->
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      
+    </Folder>
+  </Document>
+</kml>

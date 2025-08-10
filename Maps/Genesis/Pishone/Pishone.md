@@ -2,7 +2,7 @@
 Wadi Bishah
 Confidence:Medium
 # 19°53'56.5"N 42° '54.9"E
-[[2]]
+[[Genesis 2]]
 
 
 ![[Pasted image 20250808145053.png]]

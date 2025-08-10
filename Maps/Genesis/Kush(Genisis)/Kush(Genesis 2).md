@@ -1,6 +1,6 @@
 
 Confidence: None
-[[2]]
+[[Genesis 2]]
 # Geolocating the Biblical Land of Kush: A Historical, Archaeological, and Textual Analysis
 
 ## The Kingdom of Kush: An Archaeological and Historical Profile

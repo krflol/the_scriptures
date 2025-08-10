@@ -1,4 +1,4 @@
-[[3]]
+[[Genesis 3]]
 
 **Mother of all the living**– Previous investigation of the crucial story (see [_Guardian Angel_)](https://skipmoen.com/books-audio/guardian-angel/) helped us see that the name given to the woman by Adam was certainly not uplifting.  In fact, there are reasons to believe that the real Hebrew name (_Hawwah_) means something quite derogatory.[1]  The narrator suggests the meaning “mother of all living” as the alternative, but its derivation from the original _Hawwah_ is a stretch at best.  If the original audience knew that _Hawwah_ meant a connection to the verb _hayah_, the explanation of the name would not have been necessary.
 

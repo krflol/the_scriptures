@@ -3,7 +3,7 @@ Confidence: High
 Location: 32.538569, 44.412496
 Elevation: 301ft MSL
 
-[[2]]
+[[Genesis 2]]
 
 
 ![[Pasted image 20250808221612.png]]

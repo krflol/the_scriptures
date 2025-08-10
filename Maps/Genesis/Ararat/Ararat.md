@@ -2,7 +2,7 @@ Location: 39.710870577259286, 44.29909529239022
 Confidence: Medium
 Elevation: 15,938.6ft MSL
 
-[[8]]
+[[Genesis 8]]
 
 ![[Pasted image 20250809124642.png]]![[Pasted image 20250809124731.png]]
 

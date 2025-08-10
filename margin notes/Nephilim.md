@@ -1,4 +1,4 @@
-[[6]]
+[[Genesis 6]]
 
 # The Nephilim of Genesis 6:4: A Comprehensive Exegetical and Historical Analysis
 

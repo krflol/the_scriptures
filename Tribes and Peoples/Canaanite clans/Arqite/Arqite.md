@@ -1,4 +1,4 @@
-[[10|Genesis 10:17]]
+[[Genesis 10|Genesis 10:17]]
 
 ### The Arqite (Arkite)
 

@@ -7,7 +7,7 @@ Details:
 
 One of the cradles of civilization. Writing, polititcs etc
 [[Nimrod]]
-[[10|Genesis 10:10]] 
+[[Genesis 10|Genesis 10:10]] 
 [[Shinar]]
 
 

@@ -6,8 +6,8 @@ Confidence: High
 Details:
 
 Genesis:
-[[2]]
-[[10|Genesis 10:11]] 
+[[Genesis 2]]
+[[Genesis 10|Genesis 10:11]] 
 
 
 

@@ -1,5 +1,5 @@
 
-[[3]] Kerubim
+[[Genesis 3]] Kerubim
 
 
 # The Hebrew Meaning of the ‘Guardians of the Garden of Eden’: Revealing the Cherubim’s Grasp

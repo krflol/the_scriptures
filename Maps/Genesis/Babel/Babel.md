@@ -2,7 +2,7 @@ Location: 32.50025817205463, 44.40007533685579
 Confidence: High
 Elevation: 91.9ft MSL
 
-[[10|Genesis 10:10]]
+[[Genesis 10|Genesis 10:10]]
 [[Shinar]]
 [[Nimrod]]
 
