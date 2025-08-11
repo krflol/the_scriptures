@@ -4,7 +4,7 @@ import re
 
 # --- Configuration ---
 ROOT_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-SOURCE_DIR = os.path.join(ROOT_DIR, 'The Tanak')
+SOURCE_DIR = os.path.join(ROOT_DIR, 'The Scriptures')
 VIEWER_DIR = os.path.dirname(__file__)
 OUTPUT_HTML_FILE = os.path.join(VIEWER_DIR, 'index.html')
 

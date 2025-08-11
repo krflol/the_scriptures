@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Genesis Locations and Regions</name>
+    <description>A consolidated map of locations and regions from Genesis.</description>
+
+    <!-- Styles -->
+    <Style id="pushpinStyle">
+      <IconStyle>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="shinarPolygonStyle">
+      <LineStyle>
+        <color>ff0077ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>800077ff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="havilahPolygonStyle">
+      <LineStyle>
+        <color>ffffaa00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>80ffaa00</color>
+      </PolyStyle>
+    </Style>
+    <Style id="cushPolygonStyle">
+      <LineStyle>
+        <color>ff00aaff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000aaff</color>
+      </PolyStyle>
+    </Style>
+    <Style id="edenPolygonStyle">
+      <LineStyle>
+        <color>ff00ff00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000ff00</color>
+      </PolyStyle>
+    </Style>
+
+    <!-- Placemarks for Individual Cities -->
+    <Folder>
+        <name>Genesis Locations</name>
+        <Placemark>
+            <name>Resen</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>43.41419448371442,36.303487052829524</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Nineweh</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>43.136798193566705,36.340688444823286</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Hiddeqel</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>43.677662432371044,34.7707208318863</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Euphrates</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>44.412496,32.538569</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Carchemish</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>38.01,36.82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Mari</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>40.88,34.55</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Babylon</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>44.42,32.54</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ur</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>46.10,30.96</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Erek</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>45.6289334,31.3179591</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Babel</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>44.40007533685579,32.50025817205463</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ararat</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>44.29909529239022,39.710870577259286</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Akkad</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>44.36781751855634,33.34809941102404</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Ashshur</name>
+            <styleUrl>#pushpinStyle</styleUrl>
+            <Point>
+                <coordinates>43.25935651589402,35.45655557762051</coordinates>
+            </Point>
+        </Placemark>
+    </Folder>
+
+    <!-- Regions and Kingdoms -->
+    <Folder>
+        <name>Regions and Kingdoms</name>
+
+        <!-- Land of Shinar -->
+        <Placemark>
+            <name>Land of Shinar (Approximate)</name>
+            <styleUrl>#shinarPolygonStyle</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            44.40007533685579,32.50025817205463
+                            45.6289334,31.3179591
+                            44.36781751855634,33.34809941102404
+                            44.40007533685579,32.50025817205463
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <!-- Land of Havilah (North/Central Arabia) -->
+        <Placemark>
+            <name>Land of Havilah (North/Central Arabia - Wadi al-Batin)</name>
+            <styleUrl>#havilahPolygonStyle</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            43.0,29.0
+                            46.0,29.0
+                            46.0,26.0
+                            43.0,26.0
+                            43.0,29.0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <!-- Land of Havilah (Southwestern Arabia) -->
+        <Placemark>
+            <name>Land of Havilah (Southwestern Arabia - Wadi Bishah)</name>
+            <styleUrl>#havilahPolygonStyle</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            42.0,20.0
+                            45.0,20.0
+                            45.0,17.0
+                            42.0,17.0
+                            42.0,20.0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <!-- Land of Cush (African) -->
+        <Placemark>
+            <name>Land of Cush (African - Nubia/Ethiopia)</name>
+            <styleUrl>#cushPolygonStyle</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            30.0,24.0
+                            35.0,24.0
+                            35.0,15.0
+                            30.0,15.0
+                            30.0,24.0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <!-- Land of Cush (Mesopotamian) -->
+        <Placemark>
+            <name>Land of Cush (Mesopotamian - Kassites)</name>
+            <styleUrl>#cushPolygonStyle</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            45.0,35.0
+                            48.0,35.0
+                            48.0,32.0
+                            45.0,32.0
+                            45.0,35.0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+
+        <!-- Borders of the Canaanites -->
+        <Placemark>
+          <name>Approximate Canaanite Territory</name>
+          <styleUrl>#territoryPolygonStyle</styleUrl>
+          <Polygon>
+            <tessellate>1</tessellate>
+            <altitudeMode>clampToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+                  35.3756,33.5586 <!-- Sidon -->
+                  34.4667,31.5   <!-- Gaza -->
+                  35.5300,31.2400 <!-- Cities of the Plain -->
+                  35.6100,31.5800 <!-- Lasha -->
+                  35.3756,33.5586 <!-- Sidon (to close polygon) -->
+                </coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+
+    </Folder>
+    <Folder>
+        <name>Garden of Eden (Theories)</name>
+        <Placemark>
+            <name>Garden of Eden (Southern Mesopotamia Theory)</name>
+            <styleUrl>#edenPolygonStyle</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            47.5,31.0
+                            48.5,31.0
+                            48.5,30.0
+                            47.5,30.0
+                            47.5,31.0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark>
+            <name>Garden of Eden (Armenian Highlands Theory)</name>
+            <styleUrl>#edenPolygonStyle</styleUrl>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            41.0,40.0
+                            44.0,40.0
+                            44.0,38.0
+                            41.0,38.0
+                            41.0,40.0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Folder>
+  </Document>
+</kml>

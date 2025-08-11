@@ -20,9 +20,9 @@
                   "state": {
                     "file": "Notes/Family Tree/Family Tree.canvas",
                     "viewState": {
-                      "x": 1038.9700587051157,
-                      "y": 2934.2718992755968,
-                      "zoom": -4
+                      "x": -1264.5003694037466,
+                      "y": 4185.746830863843,
+                      "zoom": -3.6666666666666665
                     }
                   },
                   "pinned": true,
@@ -42,12 +42,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/Family Tree/Eber.md",
+                    "file": "Notes/Maps/Genesis/Meysha/Meysha.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Eber"
+                  "title": "Meysha"
                 }
               }
             ]
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 10.md",
+                "file": "Notes/Maps/Genesis/Meysha/Meysha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Genesis 10"
+              "title": "Backlinks for Meysha"
             }
           },
           {
@@ -167,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Tanak/Kethubim - Writings/Kethubim.md",
+                "file": "Notes/Maps/Genesis/Meysha/Meysha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kethubim"
+              "title": "Outgoing links from Meysha"
             }
           },
           {
@@ -222,47 +222,48 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "460dda6f3cb2f0f6",
+  "active": "0b52bc19baef416a",
   "lastOpenFiles": [
-    "Notes/Family Tree/Family Tree.canvas",
+    "Notes/Maps/Genesis/Genesis.md",
+    "Notes/Maps/Genesis/genesis.kml",
+    "Notes/Maps/Genesis/Meysha/meysha.kml",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 10.md",
+    "Notes/Maps/Genesis/Meysha/Meysha.md",
+    "Notes/Maps/Genesis/Meysha",
+    "Notes/Family Tree/Yobab.md",
+    "Notes/Family Tree/Family Tree.canvas",
+    "Notes/Family Tree/Hawilah(Son of Yoqtan).md",
+    "Notes/Family Tree/Ophir.md",
+    "Notes/Family Tree/Diqlah.md",
+    "Notes/Family Tree/Uzal.md",
+    "Notes/Family Tree/Hadoram.md",
+    "Notes/Family Tree/Yerah.md",
+    "Notes/Family Tree/Hatsarmaweth.md",
+    "Notes/Family Tree/Seleph.md",
+    "Notes/Family Tree/Almodad.md",
+    "Notes/Family Tree/Yoqtan.md",
+    "Notes/Family Tree/Peleg.md",
     "Notes/Family Tree/Eber.md",
-    "Notes/Maps/Genesis/Canaan Borders/Canaan Borders Genesis 10.md",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 2.md",
-    "Notes/Maps/Genesis/Euphrates/Euphrates.md",
+    "Notes/Family Tree/Shelah.md",
+    "Notes/Family Tree/Uts.md",
+    "Notes/Family Tree/Mash.md",
+    "Notes/Family Tree/Gether.md",
+    "Notes/Family Tree/Hul.md",
+    "Notes/Family Tree/Lud.md",
+    "Notes/Family Tree/Aram.md",
+    "Notes/Family Tree/Arpakshad.md",
+    "Notes/Family Tree/Eylam.md",
+    "Notes/Family Tree/Asshur.md",
     "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
     "The Scriptures/The Tanak/The Tanak.canvas",
     "Notes",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 1.md",
-    "Notes/margin notes/Margin Notes.md",
-    "Notes/Tribes and Peoples/Canaanite clans/Arwadite/Arwadite.md",
     "The Scriptures",
-    "Notes/Maps/Genesis/Shinar/Shinar.md",
-    "Hebel.md",
-    "The first record of calling on The name of יהוה.md",
     "Maps/Genesis/Canaan Borders/WinTAK.10.035812.kml",
     "Maps/Genesis/Canaan Borders/WinTAK.10.035555.kml",
     "Maps/Genesis/Canaan Borders/WinTAK.10.035530.kmz",
     "Maps/Genesis/Canaan Borders/Pasted image 20250809224859.png",
     "Notes/Maps/Genesis/Canaan Borders/canaangen10.kml",
     "Maps/Genesis/Canaan Borders/canaangen10",
-    "Notes/Maps/Genesis/Canaan Borders",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 9.md",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 8.md",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 7.md",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 6.md",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 5.md",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 4.md",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 3.md",
-    "Notes/Tribes and Peoples/Canaanite clans/Arqite/Arqite.md",
-    "Family Tree/Untitled.md",
-    "Notes/Tribes and Peoples/Canaanite clans/Hamathite/Hamathite.md",
-    "Notes/Tribes and Peoples/Canaanite clans/Tsemarite/Tsemarite.md",
-    "Notes/Tribes and Peoples/Canaanite clans/Hamathite",
-    "Notes/Tribes and Peoples/Canaanite clans/Tsemarite",
-    "Notes/Tribes and Peoples/Canaanite clans/Hiwwite/Hiwwite.md",
-    "Notes/Tribes and Peoples/Canaanite clans/Sinite/Sinites.md",
-    "Notes/Tribes and Peoples/Canaanite clans/Girgashite/Girgashite.md",
     "Notes/Maps/Genesis/Resen/Pasted image 20250809211711.png",
     "Notes/Maps/Genesis/Resen/Pasted image 20250809211839.png",
     "Notes/Maps/Genesis/Nineweh/Pasted image 20250809195522.png",

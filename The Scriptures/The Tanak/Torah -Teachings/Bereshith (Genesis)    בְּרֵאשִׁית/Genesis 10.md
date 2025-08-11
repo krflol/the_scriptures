@@ -19,3 +19,10 @@
 <sup>20</sup>These were the sons of Ham, according to their clans, according to their languages, in their lands, in their nations.
 <sup>21</sup>And also to Shem, the father of all the children of Eber, the brother of Yepheth the elder, *children* were born.
 <sup>22</sup>The sons of Shem: Eylam, and Asshur, and Arpakshad, and Lud, and Aram
+<sup>23</sup>And the sons of Aram: Uts and Hul, and Gether, and Mash.
+<sup>24</sup>And Arpakshad brought forth Shelah, and Shelah brought forth Eber.
+<sup>25</sup>And to Eber were born two sons, the name of one was Peleg, for in his days the earth was divided, and his brother's name was Yoqtan,
+<sup>26</sup>And Yoqtan brought forth Almodad, and Seleph, and Hatsarmaweth, and Yerah,
+<sup>28</sup>and Hadoram, and Uzal, and Diqlah,
+<sup>29</sup>and Ophir, and Hawilah, and Yobab. And all of these were sons of Yoqtan
+<sup>30</sup>And their dwelling place was from Meysha as you go toward Sephar, a mountain of the east.
