@@ -26,3 +26,5 @@
 <sup>28</sup>and Hadoram, and Uzal, and Diqlah,
 <sup>29</sup>and Ophir, and Hawilah, and Yobab. And all of these were sons of Yoqtan
 <sup>30</sup>And their dwelling place was from Meysha as you go toward Sephar, a mountain of the east.
+<sup>31</sup>These were the sons of Shem, according to ther clans, according to their languages, in their lands, according to their nations.
+<sup>32</sup>These were the clans of the sons of Noah, according to their generations, in their nations. And from these nations were divided on the earth after the flood.
