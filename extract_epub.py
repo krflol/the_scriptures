@@ -33,6 +33,6 @@ def extract_epub_to_raw_text(epub_path, output_dir):
             print(f"Extracted: {filename}")
 
 if __name__ == '__main__':
-    epub_file = '/mnt/c/Users/keena/Documents/obsidian/the_scriptures/TheScriptures-1998_ISR.epub'
+    epub_file = 'TheScriptures-1998_ISR.epub'
     output_folder = 'raw_text'
     extract_epub_to_raw_text(epub_file, output_folder)

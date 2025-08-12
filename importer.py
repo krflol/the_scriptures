@@ -1,82 +1,83 @@
 
 import os
 import re
+from bs4 import BeautifulSoup
 
 RAW_TEXT_DIR = 'raw_text'
 TANAK_OUTPUT_DIR = os.path.join('The Scriptures', 'The Tanak')
 NEW_TESTAMENT_OUTPUT_DIR = os.path.join('The Scriptures', 'New Testament')
 
-TANAK_BOOK_MAP = {
-    "Gen": "Bereshith (Genesis)    בְּרֵאשִׁית",
-    "Exod": "Shemoth (Exodus)",
-    "Lev": "Wayiqra (Leviticus)",
-    "Num": "Bemiḏbar (Numbers)",
-    "Deut": "Deḇarim (Deuteronomy)",
-    "Josh": "Yehoshua (Joshua)",
-    "Judg": "Shophetim (Judges)",
-    "Ruth": "Ruth (Ruth)",
-    "1Sam": "Shemu’ĕl 1 (1 Samuel)",
-    "2Sam": "Shemu’ĕl 2 (2 Samuel)",
-    "1Kgs": "Melaḵim 1 (1 Kings)",
-    "2Kgs": "Melaḵim 2 (2 Kings)",
-    "1Chr": "Diḇrĕ haYamim 1 (1 Chronicles)",
-    "2Chr": "Diḇrĕ haYamim 2 (2 Chronicles)",
-    "Ezra": "Ezra (Ezra)",
-    "Neh": "Neḥemyah (Nehemiah)",
-    "Esth": "Estĕr (Esther)",
-    "Job": "Iyoḇ (Job)",
-    "Ps": "Tehillim (Psalms)",
-    "Prov": "Mishlĕ (Proverbs)",
-    "Eccl": "Qoheleth (Ecclesiastes)",
-    "Song": "Shir haShirim (Song of Songs)",
-    "Isa": "Yeshayahu (Isaiah)",
-    "Jer": "Yirmeyahu (Jeremiah)",
-    "Lam": "Ĕyḵah (Lamentations)",
-    "Ezek": "Yeḥezqĕl (Ezekiel)",
-    "Dan": "Dani’ĕl (Daniel)",
-    "Hos": "Hoshĕa (Hosea)",
-    "Joel": "Yo’ĕl (Joel)",
-    "Amos": "Amos (Amos)",
-    "Obad": "Oḇaḏyah (Obadiah)",
-    "Jonah": "Yonah (Jonah)",
-    "Mic": "Miḵah (Micah)",
-    "Nah": "Naḥum (Nahum)",
-    "Hab": "Ḥaḇaqquq (Habakkuk)",
-    "Zeph": "Tsephanyah (Zephaniah)",
-    "Hag": "Ḥaggai (Haggai)",
-    "Zech": "Zeḵaryah (Zechariah)",
-    "Mal": "Mal’aḵi (Malachi)",
-}
+# Ordered list of books to ensure correct sorting
+ORDERED_BOOKS = [
+    ("Gen", "Bereshith (Genesis)    בְּרֵאשִׁית", TANAK_OUTPUT_DIR),
+    ("Exod", "Shemoth (Exodus)", TANAK_OUTPUT_DIR),
+    ("Lev", "Wayiqra (Leviticus)", TANAK_OUTPUT_DIR),
+    ("Num", "Bemiḏbar (Numbers)", TANAK_OUTPUT_DIR),
+    ("Deut", "Deḇarim (Deuteronomy)", TANAK_OUTPUT_DIR),
+    ("Josh", "Yehoshua (Joshua)", TANAK_OUTPUT_DIR),
+    ("Judg", "Shophetim (Judges)", TANAK_OUTPUT_DIR),
+    ("Ruth", "Ruth (Ruth)", TANAK_OUTPUT_DIR),
+    ("1Sam", "Shemu’ĕl 1 (1 Samuel)", TANAK_OUTPUT_DIR),
+    ("2Sam", "Shemu’ĕl 2 (2 Samuel)", TANAK_OUTPUT_DIR),
+    ("1Kgs", "Melaḵim 1 (1 Kings)", TANAK_OUTPUT_DIR),
+    ("2Kgs", "Melaḵim 2 (2 Kings)", TANAK_OUTPUT_DIR),
+    ("1Chr", "Diḇrĕ haYamim 1 (1 Chronicles)", TANAK_OUTPUT_DIR),
+    ("2Chr", "Diḇrĕ haYamim 2 (2 Chronicles)", TANAK_OUTPUT_DIR),
+    ("Ezra", "Ezra (Ezra)", TANAK_OUTPUT_DIR),
+    ("Neh", "Neḥemyah (Nehemiah)", TANAK_OUTPUT_DIR),
+    ("Esth", "Estĕr (Esther)", TANAK_OUTPUT_DIR),
+    ("Job", "Iyoḇ (Job)", TANAK_OUTPUT_DIR),
+    ("Ps", "Tehillim (Psalms)", TANAK_OUTPUT_DIR),
+    ("Prov", "Mishlĕ (Proverbs)", TANAK_OUTPUT_DIR),
+    ("Eccl", "Qoheleth (Ecclesiastes)", TANAK_OUTPUT_DIR),
+    ("Song", "Shir haShirim (Song of Songs)", TANAK_OUTPUT_DIR),
+    ("Isa", "Yeshayahu (Isaiah)", TANAK_OUTPUT_DIR),
+    ("Jer", "Yirmeyahu (Jeremiah)", TANAK_OUTPUT_DIR),
+    ("Lam", "Ĕyḵah (Lamentations)", TANAK_OUTPUT_DIR),
+    ("Ezek", "Yeḥezqĕl (Ezekiel)", TANAK_OUTPUT_DIR),
+    ("Dan", "Dani’ĕl (Daniel)", TANAK_OUTPUT_DIR),
+    ("Hos", "Hoshĕa (Hosea)", TANAK_OUTPUT_DIR),
+    ("Joel", "Yo’ĕl (Joel)", TANAK_OUTPUT_DIR),
+    ("Amos", "Amos (Amos)", TANAK_OUTPUT_DIR),
+    ("Obad", "Oḇaḏyah (Obadiah)", TANAK_OUTPUT_DIR),
+    ("Jonah", "Yonah (Jonah)", TANAK_OUTPUT_DIR),
+    ("Mic", "Miḵah (Micah)", TANAK_OUTPUT_DIR),
+    ("Nah", "Naḥum (Nahum)", TANAK_OUTPUT_DIR),
+    ("Hab", "Ḥaḇaqquq (Habakkuk)", TANAK_OUTPUT_DIR),
+    ("Zeph", "Tsephanyah (Zephaniah)", TANAK_OUTPUT_DIR),
+    ("Hag", "Ḥaggai (Haggai)", TANAK_OUTPUT_DIR),
+    ("Zech", "Zeḵaryah (Zechariah)", TANAK_OUTPUT_DIR),
+    ("Mal", "Mal’aḵi (Malachi)", TANAK_OUTPUT_DIR),
+    ("Matt", "Mattithyahu (Matthew)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Mark", "Marqos (Mark)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Luke", "Luqas (Luke)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("John", "Yoḥanan (John)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Acts", "Ma`aseh (Acts)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Rom", "Romiyim (Romans)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("1Cor", "Qorintiyim 1 (1 Corinthians)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("2Cor", "Qorintiyim 2 (2 Corinthians)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Gal", "Galatiyim (Galatians)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Eph", "Ephsiyim (Ephesians)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Phil", "Pilipiyim (Philippians)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Col", "Qolasim (Colossians)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("1Thess", "Tas'loniqim 1 (1 Thessalonians)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("2Thess", "Tas'loniqim 2 (2 Thessalonians)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("1Tim", "Timotiyos 1 (1 Timothy)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("2Tim", "Timotiyos 2 (2 Timothy)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Titus", "Titos (Titus)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Philem", "Pilemon (Philemon)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Heb", "Iḇ'rim (Hebrews)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("James", "Ya`aqoḇ (James)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("1Pet", "Kĕpha 1 (1 Peter)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("2Pet", "Kĕpha 2 (2 Peter)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("1John", "Yoḥanan 1 (1 John)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("2John", "Yoḥanan 2 (2 John)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("3John", "Yoḥanan 3 (3 John)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Jude", "Yehuḏah (Jude)", NEW_TESTAMENT_OUTPUT_DIR),
+    ("Rev", "Ḥazon (Revelation)", NEW_TESTAMENT_OUTPUT_DIR)
+]
 
-NEW_TESTAMENT_BOOK_MAP = {
-    "Matt": "Mattithyahu (Matthew)",
-    "Mark": "Marqos (Mark)",
-    "Luke": "Luqas (Luke)",
-    "John": "Yoḥanan (John)",
-    "Acts": "Ma`aseh (Acts)",
-    "Rom": "Romiyim (Romans)",
-    "1Cor": "Qorintiyim 1 (1 Corinthians)",
-    "2Cor": "Qorintiyim 2 (2 Corinthians)",
-    "Gal": "Galatiyim (Galatians)",
-    "Eph": "Ephsiyim (Ephesians)",
-    "Phil": "Pilipiyim (Philippians)",
-    "Col": "Qolasim (Colossians)",
-    "1Thess": "Tas'loniqim 1 (1 Thessalonians)",
-    "2Thess": "Tas'loniqim 2 (2 Thessalonians)",
-    "1Tim": "Timotiyos 1 (1 Timothy)",
-    "2Tim": "Timotiyos 2 (2 Timothy)",
-    "Titus": "Titos (Titus)",
-    "Philem": "Pilemon (Philemon)",
-    "Heb": "Iḇ'rim (Hebrews)",
-    "James": "Ya`aqoḇ (James)",
-    "1Pet": "Kĕpha 1 (1 Peter)",
-    "2Pet": "Kĕpha 2 (2 Peter)",
-    "1John": "Yoḥanan 1 (1 John)",
-    "2John": "Yoḥanan 2 (2 John)",
-    "3John": "Yoḥanan 3 (3 John)",
-    "Jude": "Yehuḏah (Jude)",
-    "Rev": "Ḥazon (Revelation)"
-}
+BOOK_MAP = {abbr: (name, out_dir, i) for i, (abbr, name, out_dir) in enumerate(ORDERED_BOOKS)}
 
 def parse_and_import():
     """
@@ -89,60 +90,52 @@ def parse_and_import():
 
     print(f"Starting import...")
 
-    tanak_keys = '|'.join(TANAK_BOOK_MAP.keys())
-    tanak_verse_pattern = re.compile(r'^(?P<book>' + tanak_keys + r')\s(?P<chapter>\d+):(?P<verse>\d+)\s(?P<text>.*)')
+    all_book_keys = sorted([book[0] for book in ORDERED_BOOKS], key=len, reverse=True)
+    # Pattern to split the text by, but keep the delimiter (the verse ref)
+    split_pattern = r'(\s*(?:' + '|'.join(all_book_keys) + r')\s+\d+:\d+\s*)'
+    
+    # Pattern to parse the verse reference itself
+    ref_pattern = re.compile(r'([a-zA-Z0-9]+)\s*(\d+):(\d+)')
 
-    nt_keys = '|'.join(NEW_TESTAMENT_BOOK_MAP.keys())
-    nt_verse_pattern = re.compile(r'^(?P<book>' + nt_keys + r')\s(?P<chapter>\d+):(?P<verse>\d+)\s(?P<text>.*)')
-
-    start_processing = False
     for filename in sorted(os.listdir(RAW_TEXT_DIR)):
-        if filename == 'TS1998 HTML on 4 December 2011 Ver1.13_split_003.htm.txt':
-            start_processing = True
-
-        if start_processing and filename.startswith('TS1998') and filename.endswith('.txt'):
+        if filename.startswith('TS1998') and filename.endswith('.txt'):
             filepath = os.path.join(RAW_TEXT_DIR, filename)
             print(f"Processing file: {filepath}")
             with open(filepath, 'r', encoding='utf-8') as f:
-                for line in f:
-                    line = line.strip()
-                    if not line:
+                soup = BeautifulSoup(f, 'lxml')
+                text = soup.get_text()
+                text = ' '.join(text.splitlines())
+
+                parts = re.split(split_pattern, text)
+                
+                for i in range(1, len(parts), 2):
+                    ref_text = parts[i].strip()
+                    if (i + 1) >= len(parts):
+                        continue
+                    verse_text = parts[i+1].strip()
+
+                    ref_match = ref_pattern.search(ref_text)
+                    if not ref_match:
                         continue
 
-                    # print(f"Processing line: {line}")
-                    tanak_match = tanak_verse_pattern.match(line)
-                    nt_match = nt_verse_pattern.match(line)
+                    book_abbr = ref_match.group(1)
+                    chapter = ref_match.group(2)
+                    verse = ref_match.group(3)
 
-                    if tanak_match:
-                        # print(f"Tanak match found: {line}")
-                        book_abbr = tanak_match.group("book")
-                        current_book = TANAK_BOOK_MAP[book_abbr]
-                        output_dir = TANAK_OUTPUT_DIR
-                        chapter = tanak_match.group("chapter")
-                        verse = tanak_match.group("verse")
-                        text = tanak_match.group("text").strip()
-                    elif nt_match:
-                        # print(f"New Testament match found: {line}")
-                        book_abbr = nt_match.group("book")
-                        current_book = NEW_TESTAMENT_BOOK_MAP[book_abbr]
-                        output_dir = NEW_TESTAMENT_OUTPUT_DIR
-                        chapter = nt_match.group("chapter")
-                        verse = nt_match.group("verse")
-                        text = nt_match.group("text").strip()
+                    if book_abbr in BOOK_MAP:
+                        book_name, output_dir, book_index = BOOK_MAP[book_abbr]
+                        # Format book directory with leading zero for sorting
+                        book_dir_name = f"{book_index + 1:02d} - {book_name}"
+                        book_dir = os.path.join(output_dir, book_dir_name)
                     else:
-                        # print(f"No match for line: {line}")
                         continue
 
-                    # Create book directory if it doesn't exist
-                    book_dir = os.path.join(output_dir, current_book)
-                    if not os.path.exists(book_dir):
-                        print(f"Creating directory: {book_dir}")
-                        os.makedirs(book_dir)
+                    os.makedirs(book_dir, exist_ok=True)
 
                     # Write to chapter file
-                    chapter_file = os.path.join(book_dir, f"{chapter}.md")
+                    chapter_file = os.path.join(book_dir, f"{book_abbr}_{chapter}.md")
                     with open(chapter_file, 'a', encoding='utf-8') as cf:
-                        cf.write(f"<sup>{verse}</sup> {text}\n")
+                        cf.write(f"<sup>{verse}</sup> {verse_text}\n")
 
 if __name__ == '__main__':
     parse_and_import()

@@ -1,0 +1,22 @@
+<sup>1</sup> The word which came to Yirmeyahu from יהוה, when Neḇuḵaḏnetstsar sovereign of Baḇel and all his army, and all the reigns of the earth under his rule, and all the people, fought against Yerushalayim and all its cities, saying,
+<sup>2</sup> “Thus said יהוה the Elohim of Yisra’ĕl, ‘Go and speak to Tsiḏqiyahu sovereign of Yehuḏah and say to him, “Thus said יהוה, ‘See, I am giving this city into the hand of the sovereign of Baḇel. And he shall burn it with fire,
+<sup>3</sup> and you shall not escape out of his hand, but certainly be taken and given into his hand. And your eyes shall see the eyes of the sovereign of Baḇel, and his mouth shall speak with your mouth, and you shall go to Baḇel.’ ” ’
+<sup>4</sup> “But hear the word of יהוה, O Tsiḏqiyahu sovereign of Yehuḏah! Thus said יהוה concerning you, ‘You shall not die by the sword.
+<sup>5</sup> ‘In peace you are to die, and as in the burnings of spices for your fathers, the former sovereigns who were before you, so they shall burn spices for you and lament for you, saying, “Alas, master!” ’ For I have spoken the word,” declares יהוה.
+<sup>6</sup> And Yirmeyahu the prophet spoke all these words to Tsiḏqiyahu the sovereign of Yehuḏah in Yerushalayim,
+<sup>7</sup> while the sovereign of Baḇel’s army was fighting against Yerushalayim and all the cities of Yehuḏah that were left, against Laḵish and Azĕqah. For only these walled cities remained of the cities of Yehuḏah.
+<sup>8</sup> The word which came to Yirmeyahu from יהוה, after Sovereign Tsiḏqiyahu had made a covenant with all the people who were at Yerushalayim to proclaim release to them:
+<sup>9</sup> that everyone was to set free his male and female slave, the Heḇrew man and the Heḇrew woman, no one was to keep a Yehuḏite, his brother, enslaved.
+<sup>10</sup> And when all the heads and all the people who had come into the covenant heard that each one was to set free his male and female slaves, and not keep them enslaved any longer, they obeyed and released them.
+<sup>11</sup> But afterward they changed their minds and made the male and female slaves return, whom they had set free, and brought them into subjection as male and female slaves.
+<sup>12</sup> Therefore the word of יהוה came to Yirmeyahu from יהוה, saying,
+<sup>13</sup> “Thus said יהוה the Elohim of Yisra’ĕl, ‘I Myself made a covenant with your fathers in the day that I brought them out of the land of Mitsrayim, out of the house of bondage, saying,
+<sup>14</sup> “At the end of seven years each one should set free his Heḇrew brother, who has been sold to him. And when he has served you six years, you shall let him go free from you.” But your fathers did not obey Me nor incline their ear.
+<sup>15</sup> ‘And you recently turned and did what was right in My eyes, each man proclaiming release to his neighbour. And you made a covenant before Me in the house which is called by My Name.
+<sup>16</sup> ‘But you turned back and profaned My Name, and each one of you took back his male and female slaves, whom he had set free, at their pleasure, and brought them into subjection, to be your male and female slaves.’
+<sup>17</sup> “Therefore thus said יהוה, ‘You have not obeyed Me in proclaiming release, each one to his brother and each one to his neighbour. See, I am proclaiming release to you,’ declares יהוה, ‘to the sword, to the pestilence, and to the scarcity of food! And I shall make you a horror to all reigns of the earth.
+<sup>18</sup> ‘And I shall give the men who are transgressing My covenant, who have not established the words of the covenant which they made before Me, when they cut the calf in two and passed between the parts of it:
+<sup>19</sup> the heads of Yehuḏah, and the heads of Yerushalayim, the eunuchs, and the priests, and all the people of the land who passed between the parts of the calf.
+<sup>20</sup> ‘And I shall give them into the hand of their enemies and into the hand of those who seek their life. And their corpses shall be for food to the birds of the heavens and the beasts of the earth.
+<sup>21</sup> ‘And I shall give Tsiḏqiyahu sovereign of Yehuḏah and his heads into the hand of their enemies, and into the hand of those who seek their life, and into the hand of the sovereign of Baḇel’s army that has withdrawn from you.
+<sup>22</sup> ‘See, I am commanding,’ declares יהוה, ‘and shall bring them back to this city, and they shall fight against it and take it and burn it with fire. And I shall make the cities of Yehuḏah a ruin without inhabitant.’ ”

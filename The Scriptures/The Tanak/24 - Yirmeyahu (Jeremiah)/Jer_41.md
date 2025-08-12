@@ -1,0 +1,18 @@
+<sup>1</sup> And in the seventh month it came to be that Yishma‛ĕl son of Nethanyah, son of Elishama, of the royal seed, and of the officers of the sovereign, came with ten men to Geḏalyahu son of Aḥiqam, at Mitspah. And while they ate bread together there in Mitspah,
+<sup>2</sup> Yishma‛ĕl son of Nethanyah, and the ten men who were with him, arose and smote Geḏalyahu son of Aḥiqam, son of Shaphan, with the sword, and killed him whom the sovereign of Baḇel had made governor over the land.
+<sup>3</sup> And Yishma‛ĕl smote all the Yehuḏim who were with him, with Geḏalyahu at Mitspah, and the Chaldeans who were found there, the men of battle.
+<sup>4</sup> And it came to be, on the second day after he had killed Geḏalyahu, when no one yet knew it,
+<sup>5</sup> that men came from Sheḵem, from Shiloh, and from Shomeron, eighty men with their beards shaved and their garments torn, having cut themselves, with offerings and incense in their hand, to bring them to the House of יהוה.
+<sup>6</sup> And Yishma‛ĕl son of Nethanyah went out from Mitspah to meet them, weeping as he walked along. And it came to be, as he met them, that he said to them, “Come to Geḏalyahu son of Aḥiqam!”
+<sup>7</sup> And it came to be, when they came inside the city, that Yishma‛ĕl son of Nethanyah slew them, throwing them into a pit, he and the men who were with him.
+<sup>8</sup> But ten men were found among them who said to Yishma‛ĕl, “Do not kill us, for we have wheat, and barley, and oil, and honey hidden in the field.” So he held back and did not kill them among their brothers.
+<sup>9</sup> And the pit into which Yishma‛ĕl had thrown all the corpses of the men whom he had slain, because of Geḏalyahu, was the same one Asa the sovereign had made for fear of Ba‛asha sovereign of Yisra’ĕl – Yishma‛ĕl son of Nethanyahu had filled it with the slain.
+<sup>10</sup> Then Yishma‛ĕl took captive all the rest of the people who were in Mitspah, the sovereign’s daughters and all the people who were left in Mitspah, whom Neḇuzaraḏan, chief of the guard, had entrusted to Geḏalyahu son of Aḥiqam. And Yishma‛ĕl son of Nethanyahu took them captive and went to go over to the Ammonites.
+<sup>11</sup> But Yoḥanan son of Qarĕaḥ and all the commanders of the army that were with him heard of all the evil that Yishma‛ĕl son of Nethanyah had done,
+<sup>12</sup> so they took all the men and went to fight with Yishma‛ĕl son of Nethanyah. And they found him by the great pool that is in Giḇ‛on.
+<sup>13</sup> And it came to be, when all the people who were with Yishma‛ĕl saw Yoḥanan son of Qarĕaḥ, and all the commanders of the army who were with him, that they were glad.
+<sup>14</sup> And all the people whom Yishma‛ĕl had taken captive from Mitspah turned around, and came back, and went to Yoḥanan son of Qarĕaḥ.
+<sup>15</sup> But Yishma‛ĕl the son of Nethanyah escaped from Yoḥanan with eight men and went to the Ammonites.
+<sup>16</sup> Then Yoḥanan son of Qarĕaḥ, and all the commanders of the army that were with him, took from Mitspah all the rest of the people whom he had recovered from Yishma‛ĕl son of Nethanyah after he had murdered Geḏalyah son of Aḥiqam – the mighty men of battle and the women and the children and the eunuchs, whom he had brought back from Giḇ‛on.
+<sup>17</sup> And they set out and dwelt in the lodging place of Kimham, which is near Bĕyth Leḥem, to go to enter Mitsrayim,
+<sup>18</sup> because of the Chaldeans. For they were afraid of them, because Yishma‛ĕl son of Nethanyah had smitten Geḏalyahu son of Aḥiqam, whom the sovereign of Baḇel had made governor in the land.
