@@ -40,14 +40,10 @@
                 "id": "d2248a0ea760218d",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 1.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "Genesis 1"
+                  "title": "New tab"
                 }
               }
             ]
@@ -66,13 +62,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 10.md",
+                "file": "Notes/Maps/Genesis/Resen/Resen.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Genesis 10"
+              "title": "Resen"
             }
           }
         ]
@@ -148,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 10.md",
+                "file": "Notes/Maps/Genesis/Resen/Resen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Genesis 10"
+              "title": "Backlinks for Resen"
             }
           },
           {
@@ -167,12 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 10.md",
+                "file": "Notes/Maps/Genesis/Resen/Resen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Genesis 10"
+              "title": "Outgoing links from Resen"
             }
           },
           {
@@ -224,46 +220,47 @@
   },
   "active": "460dda6f3cb2f0f6",
   "lastOpenFiles": [
-    "Notes/Family Tree/Family Tree.canvas",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 1.md",
     "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 10.md",
-    "Notes/Eber.md",
-    "Notes/Family Tree/Eber.md",
+    "The Scriptures/The Tanak",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/22.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/21.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/20.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/19.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/18.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/17.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/16.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/15.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/14.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/13.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/12.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/11.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/10.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/9.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/8.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/7.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/6.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/5.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/4.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/3.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/2.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)/1.md",
+    "The Scriptures/The Tanak/Ḥazon (Revelation)",
+    "The Scriptures/The Tanak/Yehuḏah (Jude)/1.md",
+    "The Scriptures/The Tanak/Yehuḏah (Jude)",
+    "The Scriptures/The Tanak/Yoḥanan 3 (3 John)/1.md",
+    "The Scriptures/The Tanak/Yoḥanan 3 (3 John)",
+    "The Scriptures/The Tanak/Yoḥanan 2 (2 John)/1.md",
+    "The Scriptures/The Tanak/Yoḥanan 2 (2 John)",
+    "The Scriptures/The Tanak/Yoḥanan 1 (1 John)",
+    "The Scriptures/The Tanak/Kĕpha 2 (2 Peter)",
+    "The Scriptures/The Tanak/Kĕpha 1 (1 Peter)",
+    "The Scriptures/The Tanak/Ya`aqoḇ (James)",
+    "The Scriptures/The Tanak/Titos (Titus)",
+    "Notes/Family Tree/Family Tree.canvas",
     "Notes/Family Tree/Untitled.canvas",
-    "Notes/Maps/Genesis/Nineweh/Nineweh.md",
-    "Notes/margin notes/Margin Notes.md",
-    "The Scriptures/The Tanak/Torah -Teachings/Bereshith (Genesis)    בְּרֵאשִׁית/Genesis 2.md",
-    "Notes/Tribes and Peoples/Canaanite clans/Arwadite/Arwadite.md",
-    "Notes/Maps/Genesis/Shinar/Shinar.md",
-    "Notes/Tribes and Peoples/Canaanite clans/Amorite/Amorite.md",
-    "Notes/Family Tree/Nimrod.md",
-    "Notes/Maps/Genesis/Erek/Erek.md",
-    "Notes/Maps/Genesis/Gihone/Gihone.md",
-    "Notes/Maps/Genesis/Meysha/Meysha.md",
-    "Notes/Maps/Genesis/Genesis.md",
-    "Notes/Maps/Genesis/genesis.kml",
-    "Notes/Maps/Genesis/Meysha/meysha.kml",
-    "Notes/Maps/Genesis/Meysha",
-    "Notes/Family Tree/Yobab.md",
-    "Notes/Family Tree/Hawilah(Son of Yoqtan).md",
-    "Notes/Family Tree/Ophir.md",
-    "Notes/Family Tree/Diqlah.md",
-    "Notes/Family Tree/Uzal.md",
-    "Notes/Family Tree/Hadoram.md",
-    "Notes/Family Tree/Yerah.md",
-    "Notes/Family Tree/Hatsarmaweth.md",
-    "Notes/Family Tree/Seleph.md",
-    "Notes/Family Tree/Almodad.md",
     "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
     "The Scriptures/The Tanak/The Tanak.canvas",
-    "Notes",
-    "The Scriptures",
-    "Maps/Genesis/Canaan Borders/WinTAK.10.035812.kml",
-    "Maps/Genesis/Canaan Borders/WinTAK.10.035555.kml",
-    "Maps/Genesis/Canaan Borders/WinTAK.10.035530.kmz",
     "Maps/Genesis/Canaan Borders/Pasted image 20250809224859.png",
-    "Notes/Maps/Genesis/Canaan Borders/canaangen10.kml",
-    "Maps/Genesis/Canaan Borders/canaangen10",
     "Notes/Maps/Genesis/Resen/Pasted image 20250809211711.png",
     "Notes/Maps/Genesis/Resen/Pasted image 20250809211839.png",
     "Notes/Maps/Genesis/Nineweh/Pasted image 20250809195522.png",
