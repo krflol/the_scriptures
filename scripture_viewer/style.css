@@ -114,3 +114,47 @@ body {
 .search-result-item .text-snippet strong {
     background-color: #fff2a8;
 }
+
+/* Responsive */
+@media (max-width: 960px) {
+    .container {
+        flex-direction: column;
+        height: auto;
+    }
+    .navigation-pane, .search-pane, .content-pane {
+        width: 100%;
+        min-width: 0;
+        border-left: none;
+        border-top: 1px solid #eee;
+    }
+    .navigation-pane, .search-pane {
+        background-color: #fafafa;
+    }
+    /* Make chapter title sticky for quick context */
+    #chapter-title {
+        position: sticky;
+        top: 0;
+        background: #fdfdfd;
+        z-index: 5;
+        padding-top: 0.5em;
+    }
+    /* Increase tap targets */
+    .nav-item, .search-result-item {
+        padding: 12px 14px;
+    }
+    #search-input {
+        position: sticky;
+        top: 0;
+        background: #f7f7f7;
+        z-index: 6;
+        margin-top: -1px;
+    }
+}
+
+@media (max-width: 600px) {
+    body { font-size: 16px; }
+    .content-pane { font-size: 1rem; line-height: 1.7; }
+    #navigation-tree ul { padding-left: 0.75em; }
+    .nav-item { font-size: 0.95rem; }
+    .search-result-item { font-size: 0.95rem; }
+}

@@ -29,8 +29,28 @@
                   "icon": "lucide-layout-dashboard",
                   "title": "Family Tree"
                 }
+              },
+              {
+                "id": "0be5e545a70700dd",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
+                    "viewState": {
+                      "x": 864.5727600920516,
+                      "y": 769.724731505823,
+                      "zoom": -2.6699492506559688
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "The Death and Ressurection of Jesus"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "74f179d532dd8ac8",
@@ -42,12 +62,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_6.md",
+                    "file": "Notes/margin notes/Margin Notes.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Genesis_Bereshith_6"
+                  "title": "Margin Notes"
                 }
               }
             ]
@@ -60,49 +80,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "460dda6f3cb2f0f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Maps/Genesis/Resen/Resen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resen"
-            }
-          },
-          {
-            "id": "92110d0b9a419930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genesis_Bereshith_6"
-            }
-          },
-          {
             "id": "95b2396c1ec5915d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Maps/Genesis/Ashshur/Ashshur.md",
+                "file": "The Scriptures/The Tanak/First Writings (Kethubim)/28 - Tehillim (Psalms)/Psalms_Tehillim_22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ashshur"
+              "title": "Psalms_Tehillim_22"
+            }
+          },
+          {
+            "id": "50b34776dd960222",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studies/TheDeathAndRessurection/Pre-Christian Old Testament and Prophecy.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Pre-Christian Old Testament and Prophecy"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Maps/Genesis/Ashshur/Ashshur.md",
+                "file": "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +192,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ashshur"
+              "title": "Backlinks for The Death and Ressurection of Jesus"
             }
           },
           {
@@ -194,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Maps/Genesis/Ashshur/Ashshur.md",
+                "file": "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ashshur"
+              "title": "Outgoing links from The Death and Ressurection of Jesus"
             }
           },
           {
@@ -249,8 +256,27 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "95b2396c1ec5915d",
+  "active": "0be5e545a70700dd",
   "lastOpenFiles": [
+    "Notes/margin notes/Margin Notes.md",
+    "The Scriptures/The Tanak/First Writings (Kethubim)/28 - Tehillim (Psalms)/Psalms_Tehillim_22.md",
+    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_1.md",
+    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_10.md",
+    "Notes/Maps/Genesis/Akkad/Akkad.md",
+    "Notes/Family Tree/Eber.md",
+    "Studies/TheDeathAndRessurection/Pre-Christian Old Testament and Prophecy.md",
+    "The Scriptures/The Tanak/Prophets/12 - Yeshayahu (Isaiah)/Isaiah_Yeshayahu_53.md",
+    "The Scriptures/The Tanak/Prophets/15 - Dani’ĕl (Daniel)/Daniel_Dani’ĕl_9.md",
+    "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
+    "Studies/TheDeathAndRessurection/Isaiah 52 and 53 Notes.md",
+    "The Scriptures/The Tanak/Prophets/12 - Yeshayahu (Isaiah)/Isaiah_Yeshayahu_52.md",
+    "Notes/Family Tree/Family Tree.canvas",
+    "Notes/Maps/Genesis/Resen/Resen.md",
+    "Notes/Maps/Genesis/Ashshur/Ashshur.md",
+    "Studies/TheDeathAndRessurection",
+    "Studies",
+    "scripture_viewer/TheScriptures.html",
+    "scripture_viewer/index - Copy.html",
     "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)/2 Peter_Kĕpha 2_1.md",
     "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)/2 Peter_Kĕpha 2_3.md",
     "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)/2 Peter_Kĕpha 2_2.md",
@@ -265,29 +291,11 @@
     "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_2.md",
     "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_14.md",
     "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_13.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_12.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_11.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_10.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_1.md",
     "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)",
-    "The Scriptures/The Tanak/Prophets/25 - Ḥaggai (Haggai)/Haggai_Ḥaggai_2.md",
-    "The Scriptures/The Tanak/Prophets/25 - Ḥaggai (Haggai)/Haggai_Ḥaggai_1.md",
     "The Scriptures/The Tanak/Prophets/25 - Ḥaggai (Haggai)",
-    "The Scriptures/The Tanak/Prophets/24 - Tsephanyah (Zephaniah)/Zephaniah_Tsephanyah_2.md",
-    "The Scriptures/The Tanak/Prophets/24 - Tsephanyah (Zephaniah)/Zephaniah_Tsephanyah_3.md",
-    "The Scriptures/The Tanak/Prophets/24 - Tsephanyah (Zephaniah)/Zephaniah_Tsephanyah_1.md",
     "The Scriptures/The Tanak/Prophets/24 - Tsephanyah (Zephaniah)",
-    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_15.md",
-    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_12.md",
-    "Notes/Maps/Genesis/Ararat/Ararat.md",
-    "Notes/Maps/Genesis/Akkad/Akkad.md",
-    "Notes/Family Tree/Family Tree.canvas",
     "The Scriptures/New Testament/66 - Ḥazon (Revelation)",
     "The Scriptures/New Testament/65 - Yehuḏah (Jude)",
-    "The Scriptures/New Testament/64 - Yoḥanan 3 (3 John)",
-    "The Scriptures/New Testament/63 - Yoḥanan 2 (2 John)",
-    "The Scriptures/New Testament/62 - Yoḥanan 1 (1 John)",
-    "The Scriptures/New Testament/60 - Kĕpha 1 (1 Peter)",
     "Notes/Family Tree/Untitled.canvas",
     "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
     "The Scriptures/The Tanak/The Tanak.canvas",

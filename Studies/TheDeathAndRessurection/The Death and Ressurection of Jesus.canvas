@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"cff13c68fd39ce76","type":"text","text":"The Death and Resurrection of Jesus","x":-112,"y":-34,"width":250,"height":60},
+		{"id":"55293ad9bd65fb33","type":"file","file":"The Scriptures/The Tanak/Prophets/12 - Yeshayahu (Isaiah)/Isaiah_Yeshayahu_53.md","x":1120,"y":20,"width":400,"height":400},
+		{"id":"5761446b4eefa8cd","x":360,"y":-234,"width":400,"height":400,"type":"file","file":"Studies/TheDeathAndRessurection/Pre-Christian Old Testament and Prophecy.md"},
+		{"id":"2aaa72e62afe07bc","type":"file","file":"The Scriptures/The Tanak/Prophets/12 - Yeshayahu (Isaiah)/Isaiah_Yeshayahu_52.md","x":1120,"y":-540,"width":400,"height":400},
+		{"id":"405eeb3c57ed804f","x":1120,"y":900,"width":400,"height":400,"type":"file","file":"The Scriptures/The Tanak/First Writings (Kethubim)/28 - Tehillim (Psalms)/Psalms_Tehillim_22.md"},
+		{"id":"ca757a80ef10f6fe","x":1120,"y":1520,"width":400,"height":400,"type":"file","file":"The Scriptures/The Tanak/Prophets/15 - Dani’ĕl (Daniel)/Daniel_Dani’ĕl_9.md"}
+	],
+	"edges":[
+		{"id":"6feb833db6b1db5f","fromNode":"2aaa72e62afe07bc","fromSide":"bottom","toNode":"55293ad9bd65fb33","toSide":"top","label":"Continues to 53"},
+		{"id":"553a3831c593401d","fromNode":"cff13c68fd39ce76","fromSide":"right","toNode":"5761446b4eefa8cd","toSide":"left"},
+		{"id":"a4128d28866af0a0","fromNode":"5761446b4eefa8cd","fromSide":"right","toNode":"2aaa72e62afe07bc","toSide":"left","label":"starting at 13"},
+		{"id":"f3445984808bdd6d","fromNode":"5761446b4eefa8cd","fromSide":"right","toNode":"55293ad9bd65fb33","toSide":"left"},
+		{"id":"58211382187cb25a","fromNode":"5761446b4eefa8cd","fromSide":"right","toNode":"405eeb3c57ed804f","toSide":"left","label":"Not just the verse uttered on the cross, the whole thing!"},
+		{"id":"320d769208e2a15f","fromNode":"5761446b4eefa8cd","fromSide":"right","toNode":"ca757a80ef10f6fe","toSide":"left"}
+	]
+}
