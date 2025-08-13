@@ -1,6 +1,6 @@
 Welcome. This is a digital Study Bible. 
 
-Everything that is scripture to this point is hand-typed from The Scriptures, to ensure accuracy to the best of my ability to the paper copy. Typos are possible, contributions are welcome.
+Scripture taken from The Scriptures, Copyright by Institute for Scripture Research. Used by permission.
 
 Some of the notes used the Deep Research functionality of Google Gemini. While this function claims to have a very high degree of accuracy, and I do read through and verify it's results to the best of my ability, this fact must be noted and like any thing else on the internet should be taken for what it is. These are separated from The Word for a reason, feel free to ignore them entirely.
 
