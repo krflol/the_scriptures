@@ -135,6 +135,7 @@ def build_html_file(scripture_data):
             <h1 id=\"chapter-title\">Welcome</h1>
             <div id=\"chapter-content\">
                 <p>Select a chapter from the navigation menu to begin reading.</p>
+                <p style=\"font-size: 0.9em; color: #666; margin-top: 0.5em;\">Scripture taken from The Scriptures, Copyright by Institute for Scripture Research. Used by permission.</p>
             </div>
         </div>
         <div class=\"pane search-pane\">
