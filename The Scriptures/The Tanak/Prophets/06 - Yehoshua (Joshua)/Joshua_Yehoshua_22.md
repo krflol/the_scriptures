@@ -1,0 +1,68 @@
+<sup>1</sup> Then Yehoshua called for the Re’uḇĕnites, and the Gaḏites, and half the tribe of Menashsheh,
+
+<sup>2</sup> and said to them, “You, you have guarded all that Mosheh the servant of יהוה commanded you, and have obeyed my voice in all that I commanded you.
+
+<sup>3</sup> “You have not left your brothers these many days, up to this day, but have guarded the Charge, the command of יהוה your Elohim.
+
+<sup>4</sup> “And now יהוה your Elohim has given rest to your brothers, as He promised them. So now, return and go to your tents and to the land of your possession, which Mosheh the servant of יהוה gave you beyond the Yardĕn.
+
+<sup>5</sup> “Only, diligently guard to do the command and the Torah which Mosheh the servant of יהוה commanded you, to love יהוה your Elohim, and to walk in all His ways, and to guard His commands, and to cling to Him, and to serve Him with all your heart and with all your being.”
+
+<sup>6</sup> And Yehoshua blessed them and sent them away, and they went to their tents.
+
+<sup>7</sup> And to half the tribe of Menashsheh Mosheh had given a possession in Bashan, but to the other half of it Yehoshua gave land among their brothers beyond the Yardĕn, westward. So when Yehoshua sent them away to their tents, he also blessed them,
+
+<sup>8</sup> and spoke to them, saying, “Return to your tents with great riches, and with very much livestock, and with silver, and with gold, and with bronze, and with iron, and with countless garments. Divide the spoil of your enemies with your brothers.”
+
+<sup>9</sup> And the children of Re’uḇĕn, and the children of Gaḏ, and half the tribe of Menashsheh returned, and left the children of Yisra’ĕl at Shiloh, which is in the land of Kena‛an, to go to the land of Gil‛aḏ, to the land of their possession, which they possessed according to the command of יהוה by the hand of Mosheh.
+
+<sup>10</sup> And they came to the districts of the Yardĕn which is in the land of Kena‛an, and the children of Re’uḇĕn, and the children of Gaḏ, and half the tribe of Menashsheh built an altar there by the Yardĕn, a great conspicuous altar.
+
+<sup>11</sup> And the children of Yisra’ĕl heard it said, “See, the children of Re’uḇĕn, and the children of Gaḏ, and half the tribe of Menashsheh have built an altar opposite the land of Kena‛an, in the districts of the Yardĕn, at the border of the children of Yisra’ĕl.”
+
+<sup>12</sup> And when the children of Yisra’ĕl heard, all the congregation of the children of Yisra’ĕl assembled at Shiloh to go to fight against them.
+
+<sup>13</sup> So the children of Yisra’ĕl sent Pineḥas son of El‛azar the priest to the children of Re’uḇĕn, and to the children of Gaḏ, and to half the tribe of Menashsheh, into the land of Gil‛aḏ,
+
+<sup>14</sup> and ten rulers with him, one ruler each from the chief house of every tribe of Yisra’ĕl. And each one was the head of the house of his father among the divisions of Yisra’ĕl.
+
+<sup>15</sup> And they came to the children of Re’uḇĕn and to the children of Gaḏ, and to half the tribe of Menashsheh, to the land of Gil‛aḏ, and spoke with them, saying,
+
+<sup>16</sup> “Thus says all the congregation of יהוה, ‘What is this trespass you have committed against the Elohim of Yisra’ĕl, to turn away this day from following יהוה, in that you have built for yourselves an altar, to rebel against יהוה this day?
+
+<sup>17</sup> ‘Is the crookedness of Pe‛or not enough for us, from which we have not been cleansed till this day, although there was a plague in the congregation of יהוה,
+
+<sup>18</sup> that you turn away today from following יהוה ? And it shall be, if you rebel today against יהוה, that tomorrow He is wroth with all the congregation of Yisra’ĕl.
+
+<sup>19</sup> ‘And indeed, if the land of your possession is unclean, then pass over to the land of the possession of יהוה, where the Dwelling Place of יהוה dwells, and take possession among us. But do not rebel against יהוה, nor rebel against us, by building yourselves an altar besides the altar of יהוה our Elohim.
+
+<sup>20</sup> ‘Did not Aḵan son of Zeraḥ commit a trespass in that which is under the ban, and wrath fell on all the congregation of Yisra’ĕl? And he was not the only one to die in his crookedness.’ ”
+
+<sup>21</sup> Then the children of Re’uḇĕn, and the children of Gaḏ, and half the tribe of Menashsheh answered and said to the heads of the divisions of Yisra’ĕl,
+
+<sup>22</sup> “Ĕl Elohim יהוה, Ĕl Elohim יהוה, He knows, and let Yisra’ĕl itself know. If this has been in rebellion, or if in trespass against יהוה, do not save us this day.
+
+<sup>23</sup> “If we have built ourselves an altar to turn from following יהוה, or if to offer burnt offerings or grain offerings on it, or if to make peace offerings on it, let יהוה Himself require it.
+
+<sup>24</sup> “But truly, from fear, for a reason we did this, saying, ‘In time to come your sons might speak to our sons, saying, “What have you to do with יהוה Elohim of Yisra’ĕl?
+
+<sup>25</sup> “For יהוה has made the Yardĕn a border between you and us, you children of Re’uḇĕn and children of Gaḏ. You have no portion with יהוה.” So your sons would make our sons stop fearing יהוה.’
+
+<sup>26</sup> “So we said, ‘Let us now prepare to build ourselves an altar, not for burnt offering nor for slaughtering,
+
+<sup>27</sup> but to be a witness between you and us and our generations after us, to do the service of יהוה before Him with our burnt offerings, with our slaughterings, and with our peace offerings, that your sons should not say to our sons in time to come, “You have no portion with יהוה.” ’
+
+<sup>28</sup> “So we said that it shall be, when they say this to us or to our generations in time to come, that we shall say, ‘See the pattern of the altar of יהוה which our fathers made, though not for burnt offerings nor for slaughterings, but it is a witness between you and us.’
+
+<sup>29</sup> “Far be it from us to rebel against יהוה, and to turn from following יהוה this day, to build an altar for burnt offerings, for grain offerings, or for slaughterings, besides the altar of יהוה our Elohim which is before His Dwelling Place.”
+
+<sup>30</sup> And Pineḥas the priest and the rulers of the congregation, and the heads of the thousands of Yisra’ĕl who were with him, heard the words that the children of Re’uḇĕn, and the children of Gaḏ, and the children of Menashsheh spoke, and it was good in their eyes.
+
+<sup>31</sup> And Pineḥas son of El‛azar the priest said to the children of Re’uḇĕn, and to the children of Gaḏ, and to the children of Menashsheh, “Today we know that יהוה is in our midst, because you have not committed against יהוה this trespass. Now you have delivered the children of Yisra’ĕl out of the hand of יהוה.”
+
+<sup>32</sup> And Pineḥas son of El‛azar the priest, and the rulers, returned from the children of Re’uḇĕn and the children of Gaḏ, from the land of Gil‛aḏ to the land of Kena‛an, to the children of Yisra’ĕl, and brought back word to them.
+
+<sup>33</sup> So the matter was good in the eyes of the children of Yisra’ĕl, and the children of Yisra’ĕl blessed Elohim. And they spoke no more of going against to fight, to destroy the land where the children of Re’uḇĕn and Gaḏ dwelt.
+
+<sup>34</sup> And the children of Re’uḇĕn and the children of Gaḏ called the altar, “A witness between us that יהוה is Elohim.”
+

@@ -1,0 +1,28 @@
+<sup>1</sup> This is the third time I am coming to you. “By the mouth of two or three witnesses every word shall be established.”
+
+<sup>2</sup> I have previously said, and I say beforehand, as being present the second time, and now being absent I write to those who have sinned before, and to all the rest, that if I come again I shall not spare,
+
+<sup>3</sup> since you are seeking for proof of Messiah speaking in me, who is not weak toward you, but mighty in you.
+
+<sup>4</sup> For though He was impaled in weakness, yet He lives by the power of Elohim. For we also are weak in Him, but we shall live with Him by the power of Elohim toward you.
+
+<sup>5</sup> Examine yourselves whether you are in the belief – prove yourselves. Or do you not know yourselves, that יהושע Messiah is in you, unless you are disapproved.
+
+<sup>6</sup> And I trust that you shall know that we are not disapproved.
+
+<sup>7</sup> And we pray to Elohim that you do no evil at all – not that we should appear approved, but that you should do what is right, even though we should appear unapproved.
+
+<sup>8</sup> For we have no power at all against the truth, but for the truth.
+
+<sup>9</sup> For we rejoice when we are weak and you are strong. And this also we pray for: your perfection.
+
+<sup>10</sup> For this reason I write this in my absence, so that, being present I should not use sharpness, according to the authority which the Master has given me for upbuilding and not for overthrowing.
+
+<sup>11</sup> For the rest, brothers, rejoice. Be made perfect, be encouraged, be of one mind, live in peace. And the Elohim of love and peace shall be with you.
+
+<sup>12</sup> Greet one another with a set-apart kiss.
+
+<sup>13</sup> All the set-apart ones greet you.
+
+<sup>14</sup> The favour of the Master יהושע Messiah, and the love of Elohim, and the fellowship of the Set-apart Spirit be with all of you. Amĕn.
+

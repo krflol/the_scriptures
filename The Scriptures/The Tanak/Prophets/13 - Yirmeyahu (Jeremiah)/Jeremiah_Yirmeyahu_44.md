@@ -1,0 +1,60 @@
+<sup>1</sup> The word that came to Yirmeyahu concerning all the Yehuḏim who were dwelling in the land of Mitsrayim – who were dwelling at Miḡdol, and at Taḥpanḥes, and at Noph, and in the land of Pathros, saying,
+
+<sup>2</sup> “Thus said יהוה of hosts, the Elohim of Yisra’ĕl, ‘You yourselves have seen all the evil that I have brought on Yerushalayim and on all the cities of Yehuḏah. And see, this day they are a ruin, and no one dwells in them,
+
+<sup>3</sup> because of their evil which they have done to provoke Me, by going to burn incense by serving other mighty ones whom they did not know, they nor you nor your fathers.
+
+<sup>4</sup> ‘And I sent to you all My servants the prophets, rising early and sending them, saying, “Please do not do this abominable matter that I hate!”
+
+<sup>5</sup> ‘But they did not listen or incline their ear, to turn from their evil, not to burn incense to other mighty ones.
+
+<sup>6</sup> ‘So My wrath and My displeasure were poured out and burned in the cities of Yehuḏah and in the streets of Yerushalayim, and they became a ruin and a wasteland, as it is this day.’
+
+<sup>7</sup> “And now, thus said יהוה, the Elohim of hosts, the Elohim of Yisra’ĕl, ‘Why are you doing this great evil against your lives, to cut off from you man and woman, child and infant, from the midst of Yehuḏah, leaving none to remain,
+
+<sup>8</sup> by provoking Me with the works of your hands, by burning incense to other mighty ones in the land of Mitsrayim where you have gone to dwell, to cut yourselves off and be a curse and a reproach among all the nations of the earth?
+
+<sup>9</sup> ‘Have you forgotten the evils of your fathers, and the evils of the sovereigns of Yehuḏah, and the evils of their wives, and your own evils, and the evils of your wives, which they have done in the land of Yehuḏah and in the streets of Yerushalayim?
+
+<sup>10</sup> ‘To this day they have not been humbled, nor have they feared, nor have they walked in My Torah and in My laws that I set before you and your fathers.’
+
+<sup>11</sup> “Therefore thus said יהוה of hosts, the Elohim of Yisra’ĕl, ‘See, I am setting My face against you for evil and for cutting off all Yehuḏah.
+
+<sup>12</sup> ‘And I shall take the remnant of Yehuḏah who have set their faces to go into the land of Mitsrayim to sojourn there. And they shall all be consumed in the land of Mitsrayim – fall by the sword, consumed by scarcity of food. From the least to the greatest they shall die, by the sword and by scarcity of food. And they shall be an oath and an astonishment and a curse and a reproach!
+
+<sup>13</sup> ‘And I shall punish those dwelling in the land of Mitsrayim, as I have punished Yerushalayim, by the sword, by scarcity of food, and by pestilence.
+
+<sup>14</sup> ‘And none of the remnant of Yehuḏah who have gone into the land of Mitsrayim to sojourn there shall escape or survive, lest they return to the land of Yehuḏah, to which they are longing to return to dwell there. For they shall not return, except those who escape.’ ”
+
+<sup>15</sup> Then all the men who knew that their wives had burned incense to other mighty ones, and all the women who stood by, a great assembly, and all the people who dwelt in the land of Mitsrayim, in Pathros, answered Yirmeyahu, saying,
+
+<sup>16</sup> “We are not going to listen to you in the matter about which you spoke to us in the Name of יהוה !
+
+<sup>17</sup> “But we shall do whatever has gone out of our own mouth, to burn incense to the sovereigness of the heavens and pour out drink offerings to her, as we have done, we and our fathers, our sovereigns and our heads, in the cities of Yehuḏah and in the streets of Yerushalayim. And we had plenty of food, and were well-off, and saw no evil.
+
+<sup>18</sup> “But since we ceased burning incense to the sovereigness of the heavens and pouring out drink offerings to her, we have lacked all and have been consumed by the sword and by scarcity of food.
+
+<sup>19</sup> “And when we burned incense to the sovereigness of the heavens and poured out drink offerings to her, did we make cakes for her, to idolize her, and pour out drink offerings to her, without our husbands?”
+
+<sup>20</sup> Then Yirmeyahu spoke to all the people – to the men and to the women, and to all the people who had given him that answer, saying,
+
+<sup>21</sup> “As for the incense that you burned in the cities of Yehuḏah and in the streets of Yerushalayim, you and your fathers, your sovereigns and your heads, and the people of the land, did not יהוה remember them? And it came into His heart!
+
+<sup>22</sup> “And יהוה could no longer bear it, because of the evil of your deeds and because of the abominations which you did. Therefore your land is a ruin, an object of astonishment, a curse, and without an inhabitant, as it is this day.
+
+<sup>23</sup> “Because you have burned incense and because you have sinned against יהוה, and did not obey the voice of יהוה or walk in His Torah, in His laws or in His witnesses, therefore this evil did befall you, as at this day.”
+
+<sup>24</sup> And Yirmeyahu said to all the people and to all the women, “Hear the word of יהוה, all Yehuḏah who are in the land of Mitsrayim!
+
+<sup>25</sup> “Thus spoke יהוה of hosts, the Elohim of Yisra’ĕl, saying, ‘You and your wives have spoken with your mouths, and have filled with your hands, saying, “We shall perform our vows that we have made, to burn incense to the sovereigness of the heavens and pour out drink offerings to her.” Then confirm your vows and perform your vows!’
+
+<sup>26</sup> “Therefore hear the word of יהוה, all Yehuḏah who are dwelling in the land of Mitsrayim, ‘See, I have sworn by My great Name,’ declares יהוה, ‘My Name shall no longer be called upon by the mouth of any man of Yehuḏah in all the land of Mitsrayim, saying, “As the Master יהוה lives...”
+
+<sup>27</sup> ‘See, I am watching over them for evil and not for good. And all the men of Yehuḏah who are in the land of Mitsrayim shall be consumed by the sword and by scarcity of food, until they come to an end.
+
+<sup>28</sup> ‘And those who escape the sword, few in number, shall return from the land of Mitsrayim to the land of Yehuḏah. And all the remnant of Yehuḏah, who came into the land of Mitsrayim to sojourn there, shall know whose word is established, Mine or theirs.
+
+<sup>29</sup> ‘And this is the sign to you,’ declares יהוה, ‘that I am punishing you in this place, so that you know that My words are certainly established against you for evil.’
+
+<sup>30</sup> “Thus said יהוה, ‘See, I am giving Pharaoh Ḥophra sovereign of Mitsrayim into the hand of his enemies and into the hand of those who seek his life, as I gave Tsiḏqiyahu sovereign of Yehuḏah into the hand of Neḇuḵaḏretstsar sovereign of Baḇel, his enemy who sought his life.’ ”
+
