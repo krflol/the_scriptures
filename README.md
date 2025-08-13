@@ -1,5 +1,9 @@
 Welcome. This is a digital Study Bible. 
 
+
+[![Video Title](https://img.youtube.com/vi/EsfDx1ahar4/0.jpg)](https://www.youtube.com/watch?v=EsfDx1ahar4)
+
+
 Scripture taken from The Scriptures, Copyright by Institute for Scripture Research. Used by permission.
 
 Some of the notes used the Deep Research functionality of Google Gemini. While this function claims to have a very high degree of accuracy, and I do read through and verify it's results to the best of my ability, this fact must be noted and like any thing else on the internet should be taken for what it is. These are separated from The Word for a reason, feel free to ignore them entirely.
