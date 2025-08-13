@@ -1,4 +1,4 @@
-[[Genesis 10|Genesis 10:21]]
+[[Genesis_Bereshith_10]]
 
 Eber (Hebrew: **עֵבֶר**, _Ever_) was the great-grandson of Shem and a key ancestor of Abraham. His name is the origin of the word **Hebrew**.
 

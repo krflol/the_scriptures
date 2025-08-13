@@ -79,16 +79,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Scriptures/The Tanak/The Torah/02 - Shemoth (Exodus)/Exodus_Shemoth_1.md",
+                "file": "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exodus_Shemoth_1"
+              "title": "Genesis_Bereshith_6"
+            }
+          },
+          {
+            "id": "95b2396c1ec5915d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Maps/Genesis/Ashshur/Ashshur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ashshur"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Scriptures/The Tanak/The Torah/02 - Shemoth (Exodus)/Exodus_Shemoth_1.md",
+                "file": "Notes/Maps/Genesis/Ashshur/Ashshur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Exodus_Shemoth_1"
+              "title": "Backlinks for Ashshur"
             }
           },
           {
@@ -180,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Scriptures/The Tanak/The Torah/02 - Shemoth (Exodus)/Exodus_Shemoth_1.md",
+                "file": "Notes/Maps/Genesis/Ashshur/Ashshur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Exodus_Shemoth_1"
+              "title": "Outgoing links from Ashshur"
             }
           },
           {
@@ -235,45 +249,45 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "92110d0b9a419930",
+  "active": "95b2396c1ec5915d",
   "lastOpenFiles": [
-    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_40.md",
-    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_1.md",
-    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_6.md",
-    "Notes/margin notes/Margin Notes.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_9.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_5.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_22.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_8.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_7.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_6.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_4.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_3.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_21.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_20.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_2.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_19.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_18.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_17.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_16.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_12.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_15.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_14.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_11.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_13.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_1.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_10.md",
+    "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)/2 Peter_Kĕpha 2_1.md",
+    "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)/2 Peter_Kĕpha 2_3.md",
+    "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)/2 Peter_Kĕpha 2_2.md",
+    "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_9.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_3.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_8.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_4.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_7.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_6.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_5.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_2.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_14.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_13.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_12.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_11.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_10.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_1.md",
+    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)",
+    "The Scriptures/The Tanak/Prophets/25 - Ḥaggai (Haggai)/Haggai_Ḥaggai_2.md",
+    "The Scriptures/The Tanak/Prophets/25 - Ḥaggai (Haggai)/Haggai_Ḥaggai_1.md",
+    "The Scriptures/The Tanak/Prophets/25 - Ḥaggai (Haggai)",
+    "The Scriptures/The Tanak/Prophets/24 - Tsephanyah (Zephaniah)/Zephaniah_Tsephanyah_2.md",
+    "The Scriptures/The Tanak/Prophets/24 - Tsephanyah (Zephaniah)/Zephaniah_Tsephanyah_3.md",
+    "The Scriptures/The Tanak/Prophets/24 - Tsephanyah (Zephaniah)/Zephaniah_Tsephanyah_1.md",
+    "The Scriptures/The Tanak/Prophets/24 - Tsephanyah (Zephaniah)",
+    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_15.md",
+    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_12.md",
+    "Notes/Maps/Genesis/Ararat/Ararat.md",
+    "Notes/Maps/Genesis/Akkad/Akkad.md",
+    "Notes/Family Tree/Family Tree.canvas",
     "The Scriptures/New Testament/66 - Ḥazon (Revelation)",
     "The Scriptures/New Testament/65 - Yehuḏah (Jude)",
     "The Scriptures/New Testament/64 - Yoḥanan 3 (3 John)",
     "The Scriptures/New Testament/63 - Yoḥanan 2 (2 John)",
     "The Scriptures/New Testament/62 - Yoḥanan 1 (1 John)",
     "The Scriptures/New Testament/60 - Kĕpha 1 (1 Peter)",
-    "The Scriptures/New Testament/59 - Ya`aqoḇ (James)",
-    "The Scriptures/New Testament/57 - Pilemon (Philemon)",
-    "The Scriptures/New Testament/56 - Titos (Titus)",
-    "The Scriptures/New Testament/55 - Timotiyos 2 (2 Timothy)",
-    "Notes/Family Tree/Family Tree.canvas",
     "Notes/Family Tree/Untitled.canvas",
     "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
     "The Scriptures/The Tanak/The Tanak.canvas",

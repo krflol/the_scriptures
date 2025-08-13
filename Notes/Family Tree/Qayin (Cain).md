@@ -1,1 +1,1 @@
-[[Genesis 4]]
+[[Genesis_Bereshith_4]]

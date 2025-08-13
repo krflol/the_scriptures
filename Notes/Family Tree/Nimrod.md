@@ -1,4 +1,4 @@
-[[10:Genesis 10:10]]
+[[Genesis_Bereshith_10||Genesis 10:10]]
 
 [[Shinar]]
 [[Erek]]

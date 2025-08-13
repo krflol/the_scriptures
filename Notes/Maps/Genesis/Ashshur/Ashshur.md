@@ -6,8 +6,8 @@ Confidence: High
 Details:
 
 Genesis:
-[[Genesis 2]]
-[[Genesis 10|Genesis 10:11]] 
+[[Genesis_Bereshith_2]]
+[[Genesis_Bereshith_2]]
 
 
 

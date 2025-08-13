@@ -3,7 +3,7 @@ Elevation: 119.7 FTMSL
 Confidence: Low
 Details:
 
-[[10:Genesis 10:10]]
+[[Genesis_Bereshith_10]]
 [[Shinar]]
 [[Nimrod]]
 

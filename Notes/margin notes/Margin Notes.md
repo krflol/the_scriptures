@@ -14,9 +14,8 @@
 
  "cubits" Cubit is an ancient unit of length, traditionally defined as the distance from the elbow to the tip of the middle finger
 
-[[Genesis 6]] "covering" Pitch, tar or other
+[[Genesis_Bereshith_6]] "covering" Pitch, tar or other
 
 
-[[Genesis 7]]  "new moon" Month
-[[Genesis 7]] "and every bird after its kind, and every bird of every wing."
-Heb - 'oph and Heb -tzippor respectively
+[[Genesis_Bereshith_7]] "new moon" Month
+[[Genesis_Bereshith_7]]"and every bird after its kind, and every bird of every wing." Heb - 'oph and Heb -tzippor respectively
