@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"96ab9d619f81eec5","type":"file","file":"Studies/Fatherhood/Week 1/Fatherhood wk1.md","x":-52,"y":110,"width":400,"height":400},
+		{"id":"2a107aa737c33ce6","x":840,"y":-290,"width":400,"height":400,"type":"file","file":"The Scriptures/The Tanak/First Writings (Kethubim)/28 - Tehillim (Psalms)/Psalms_Tehillim_103.md"},
+		{"id":"576fbc295a641535","x":840,"y":310,"width":400,"height":400,"type":"file","file":"The Scriptures/New Testament/45 - Romiyim (Romans)/Romans_Romiyim_8.md"},
+		{"id":"d5cb48399c0e946e","x":484,"y":360,"width":250,"height":60,"type":"text","text":"Romans 8:14-17;"},
+		{"id":"142098072d42f1ba","x":484,"y":360,"width":250,"height":60,"type":"text","text":"Romans 8:14-17"}
+	],
+	"edges":[
+		{"id":"54e68350ab523974","fromNode":"96ab9d619f81eec5","fromSide":"right","toNode":"2a107aa737c33ce6","toSide":"left","label":"Psalms 103:8-4"},
+		{"id":"7301eb5d514a587b","fromNode":"96ab9d619f81eec5","fromSide":"right","toNode":"576fbc295a641535","toSide":"left"}
+	]
+}

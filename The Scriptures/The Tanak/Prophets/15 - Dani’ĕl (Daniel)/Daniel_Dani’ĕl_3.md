@@ -58,3 +58,63 @@
 
 <sup>30</sup> Then the sovereign promoted Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo in the province of Baḇel.
 
+<sup>1</sup> Neḇuḵaḏnetstsar the sovereign made an image of gold, whose height was sixty cubits and its width six cubits. He set it up in the plain of Dura, in the province of Baḇel.
+
+<sup>2</sup> And Sovereign Neḇuḵaḏnetstsar sent word to gather together the viceroys, the nobles, and the governors, the counsellors, the treasurers, the judges, the magistrates, and all the officials of the provinces, to come to the dedication of the image which Sovereign Neḇuḵaḏnetstsar had set up.
+
+<sup>3</sup> Then the viceroys, the nobles, and the governors, the counsellors, the treasurers, the judges, the magistrates, and all the officials of the provinces gathered together for the dedication of the image that Sovereign Neḇuḵaḏnetstsar had set up. And they stood before the image that Neḇuḵaḏnetstsar had set up.
+
+<sup>4</sup> Then a herald loudly proclaimed, “To you it is commanded, O peoples, nations, and languages,
+
+<sup>5</sup> that as soon as you hear the sound of the horn, the flute, the zither, the lyre, the harp, the pipes, and all kinds of instruments, you shall fall down and do obeisance to the gold image that Sovereign Neḇuḵaḏnetstsar has set up.
+
+<sup>6</sup> “And whoever does not fall down and do obeisance is immediately thrown into the midst of a burning furnace of fire.”
+
+<sup>7</sup> So as soon as all the people heard the sound of the horn, the flute, the zither, the lyre, the harp, all kinds of instruments, all the people, nations, and languages fell down and did obeisance to the gold image that Sovereign Neḇuḵaḏnetstsar had set up.
+
+<sup>8</sup> Thereupon, at that time, certain Chaldeans came forward and accused the Yehuḏim.
+
+<sup>9</sup> They spoke and said to Sovereign Neḇuḵaḏnetstsar, “O sovereign, live forever!
+
+<sup>10</sup> “You, O sovereign, have made a decree that everyone who hears the sound of the horn, the flute, the zither, the lyre, the harp, the pipes, and all kinds of instruments, shall fall down and do obeisance to the gold image,
+
+<sup>11</sup> and whoever does not fall down and do obeisance is thrown into the midst of a burning furnace of fire.
+
+<sup>12</sup> “There are certain Yehuḏim whom you have set over the work of the province of Baḇel: Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo. These men, O sovereign, pay no heed to you. They do not serve your elahin, and they are not doing obeisance to the gold image which you have set up.”
+
+<sup>13</sup> Then Neḇuḵaḏnetstsar, in rage and wrath, gave orders to bring Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo. Then they brought these men before the sovereign.
+
+<sup>14</sup> Neḇuḵaḏnetstsar spoke and said to them, “Is it true, Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo, that you do not serve my elahin, and you do not do obeisance to the gold image which I have set up?
+
+<sup>15</sup> “Now if you are ready when you hear the sound of the horn, the flute, the zither, the lyre, the harp, the pipes, and all kinds of instruments, and you fall down and do obeisance to the image which I have made, good! But if you do not do obeisance, you are immediately thrown into the midst of a burning furnace of fire. And who is the elah who does deliver you from my hands?”
+
+<sup>16</sup> Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo answered and said to the sovereign, “O Neḇuḵaḏnetstsar, we have no need to answer you in this matter.
+
+<sup>17</sup> “For if so, our Elah whom we serve is able to deliver us from the burning furnace of fire and from your hand, O sovereign – He does deliver!
+
+<sup>18</sup> “But if not, let it be known to you, O sovereign, that we do not serve your elahin, nor do we do obeisance to the gold image which you have set up.”
+
+<sup>19</sup> Then Neḇuḵaḏnetstsar was filled with wrath, and the expression on his face changed toward Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo. He responded and gave orders that they heat the furnace seven times more than it was usual to heat it.
+
+<sup>20</sup> And he commanded some of the strongest men of his army to bind Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo, and throw them into the burning furnace of fire.
+
+<sup>21</sup> So these men were bound in their coats, their trousers, and their turbans, and their other garments, and were thrown into the midst of the burning furnace of fire.
+
+<sup>22</sup> Thereupon, because the sovereign’s order was urgent, and the furnace exceedingly hot, the flame of the fire killed those men who took up Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo.
+
+<sup>23</sup> And these three men, Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo, fell down bound into the midst of the burning furnace of fire.
+
+<sup>24</sup> Then Sovereign Neḇuḵaḏnetstsar was amazed, and stood up in haste and spoke and said to his counsellors, “Did we not throw three men bound into the midst of the fire?” They answered and said to the sovereign, “Certainly, O sovereign.”
+
+<sup>25</sup> He answered and said, “Look! I see four men loose, walking in the midst of the fire. And they are not hurt, and the form of the fourth is like the Son of Elah.”
+
+<sup>26</sup> Then Neḇuḵaḏnetstsar went near the mouth of the burning furnace of fire. He spoke and said, “Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo, servants of the Most High Elah, come out, and come here.” Then Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo came from the midst of the fire.
+
+<sup>27</sup> And the viceroys, the nobles, and the governors, and the sovereign’s counsellors gathered together, seeing these men on whose bodies the fire had no power, and the hair of their head was not singed nor were their garments changed, nor did the smell of fire come on them.
+
+<sup>28</sup> Neḇuḵaḏnetstsar responded and said, “Blessed be the Elah of Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo, who sent His Messenger and delivered His servants who trusted in Him, and changed the sovereign’s order, and gave up their bodies, that they should not serve nor do obeisance to any elah except their own Elah!
+
+<sup>29</sup> “Therefore I make a decree that whoever of any people, nation, or language who speaks any wrong against the Elah of Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo, his limbs shall be taken, and his house made a dunghill, because there is no other Elah who is able to deliver like this.”
+
+<sup>30</sup> Then the sovereign promoted Shaḏraḵ, Mĕyshaḵ, and Aḇĕḏ-Neḡo in the province of Baḇel.
+

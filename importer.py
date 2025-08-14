@@ -131,6 +131,9 @@ BOOK_ALIASES = {
     "Phlm": "Philem",
     # James
     "Jas": "James",
+    # Hebrews
+    "Iḇ'rim/Hebrews": "Heb",
+    "Hebrew": "Heb",
 }
 
 # Build the list of keys to split on: canonical abbreviations plus alias labels

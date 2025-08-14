@@ -20,9 +20,9 @@
                   "state": {
                     "file": "Notes/Family Tree/Family Tree.canvas",
                     "viewState": {
-                      "x": -4771.429439409441,
-                      "y": 3344.6322562890127,
-                      "zoom": -0.6666666666666665
+                      "x": -3217.7212288370506,
+                      "y": 6007.137129792127,
+                      "zoom": -3.3333333333333335
                     }
                   },
                   "pinned": true,
@@ -31,22 +31,22 @@
                 }
               },
               {
-                "id": "0be5e545a70700dd",
+                "id": "98757df4229e2585",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "canvas",
                   "state": {
-                    "file": "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
+                    "file": "Studies/Fatherhood/Canvas/Week1.canvas",
                     "viewState": {
-                      "x": 864.5727600920516,
-                      "y": 769.724731505823,
-                      "zoom": -2.6699492506559688
+                      "x": 733,
+                      "y": 422,
+                      "zoom": 0
                     }
                   },
                   "pinned": true,
                   "icon": "lucide-layout-dashboard",
-                  "title": "The Death and Ressurection of Jesus"
+                  "title": "Week1"
                 }
               }
             ],
@@ -59,15 +59,17 @@
               {
                 "id": "d2248a0ea760218d",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Notes/margin notes/Margin Notes.md",
+                    "file": "Studies/Fatherhood/Week 1/Fatherhood wk1.md",
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Margin Notes"
+                  "title": "Fatherhood wk1"
                 }
               }
             ]
@@ -80,33 +82,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95b2396c1ec5915d",
+            "id": "73da812d30705205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Scriptures/The Tanak/First Writings (Kethubim)/28 - Tehillim (Psalms)/Psalms_Tehillim_22.md",
+                "file": "The Scriptures/The Tanak/First Writings (Kethubim)/31 - Shir haShirim (Song of Songs)/Song of Songs_Shir haShirim_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Psalms_Tehillim_22"
-            }
-          },
-          {
-            "id": "50b34776dd960222",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/TheDeathAndRessurection/Pre-Christian Old Testament and Prophecy.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Pre-Christian Old Testament and Prophecy"
+              "title": "Song of Songs_Shir haShirim_1"
             }
           }
         ]
@@ -166,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 390.5
   },
   "right": {
     "id": "5b2c059c2c29415b",
@@ -182,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
+                "file": "The Scriptures/The Tanak/First Writings (Kethubim)/31 - Shir haShirim (Song of Songs)/Song of Songs_Shir haShirim_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +178,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Death and Ressurection of Jesus"
+              "title": "Backlinks for Song of Songs_Shir haShirim_1"
             }
           },
           {
@@ -201,12 +187,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
+                "file": "The Scriptures/The Tanak/First Writings (Kethubim)/31 - Shir haShirim (Song of Songs)/Song of Songs_Shir haShirim_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Death and Ressurection of Jesus"
+              "title": "Outgoing links from Song of Songs_Shir haShirim_1"
             }
           },
           {
@@ -256,46 +242,48 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0be5e545a70700dd",
+  "active": "64a4fd3696d1db09",
   "lastOpenFiles": [
-    "Notes/margin notes/Margin Notes.md",
-    "The Scriptures/The Tanak/First Writings (Kethubim)/28 - Tehillim (Psalms)/Psalms_Tehillim_22.md",
-    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_1.md",
-    "The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_10.md",
-    "Notes/Maps/Genesis/Akkad/Akkad.md",
-    "Notes/Family Tree/Eber.md",
-    "Studies/TheDeathAndRessurection/Pre-Christian Old Testament and Prophecy.md",
-    "The Scriptures/The Tanak/Prophets/12 - Yeshayahu (Isaiah)/Isaiah_Yeshayahu_53.md",
-    "The Scriptures/The Tanak/Prophets/15 - Dani’ĕl (Daniel)/Daniel_Dani’ĕl_9.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_9.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_8.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_7.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_6.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_5.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_4.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_2.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_3.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_13.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_12.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_11.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_10.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_1.md",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)",
+    "Studies/Fatherhood/Week 1/Fatherhood wk1.md",
+    "Studies/Fatherhood/Canvas/Week1.canvas",
+    "The Scriptures/New Testament/45 - Romiyim (Romans)/Romans_Romiyim_8.md",
+    "The Scriptures/The Tanak/First Writings (Kethubim)/28 - Tehillim (Psalms)/Psalms_Tehillim_103.md",
+    "The Scriptures/New Testament/40 - Mattithyahu (Matthew)/Matthew_Mattithyahu_1.md",
     "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
-    "Studies/TheDeathAndRessurection/Isaiah 52 and 53 Notes.md",
-    "The Scriptures/The Tanak/Prophets/12 - Yeshayahu (Isaiah)/Isaiah_Yeshayahu_52.md",
+    "Studies/Fatherhood/Canvas/Fatherhood.canvas",
+    "Studies/Fatherhood/Fatherhood.md",
+    "Studies/Fatherhood/Week 1",
     "Notes/Family Tree/Family Tree.canvas",
-    "Notes/Maps/Genesis/Resen/Resen.md",
-    "Notes/Maps/Genesis/Ashshur/Ashshur.md",
+    "Studies/Fatherhood/Canvas",
+    "Studies/Fatherhood",
+    "Notes/Family Tree/Dawiḏ.md",
+    "Notes/Family Tree/Aḇraham.md",
+    "Studies/Matthew/Matthew 1/Matthew 1.md",
+    "Studies/Matthew",
+    "Studies/Matthew/Matthew 1",
+    "Studies/TheDeathAndRessurection/Secular and nonbiblical history.md",
+    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_1.md",
+    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_12.md",
+    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_5.md",
+    "The Scriptures/New Testament/43 - Yoḥanan (John)/John_Yoḥanan_21.md",
     "Studies/TheDeathAndRessurection",
     "Studies",
     "scripture_viewer/TheScriptures.html",
     "scripture_viewer/index - Copy.html",
-    "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)/2 Peter_Kĕpha 2_1.md",
-    "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)/2 Peter_Kĕpha 2_3.md",
-    "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)/2 Peter_Kĕpha 2_2.md",
-    "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_9.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_3.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_8.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_4.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_7.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_6.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_5.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_2.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_14.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)/Zechariah_Zeḵaryah_13.md",
-    "The Scriptures/The Tanak/Prophets/26 - Zeḵaryah (Zechariah)",
-    "The Scriptures/The Tanak/Prophets/25 - Ḥaggai (Haggai)",
-    "The Scriptures/The Tanak/Prophets/24 - Tsephanyah (Zephaniah)",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)",
-    "The Scriptures/New Testament/65 - Yehuḏah (Jude)",
     "Notes/Family Tree/Untitled.canvas",
     "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
     "The Scriptures/The Tanak/The Tanak.canvas",

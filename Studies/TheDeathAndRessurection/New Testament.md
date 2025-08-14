@@ -1,0 +1,7 @@
+Matthew 12:40
+
+### The Earliest Testimony: The Pauline Creed (1 Corinthians 15)
+
+In his first letter to the Corinthians, written in the mid-50s CE, the Apostle Paul quotes what is almost universally recognized by scholars as a pre-Pauline creed—a formulaic summary of the gospel that he "received" from the Jerusalem apostles, likely during his visit there around 36 CE. This creed, found in 1 Corinthians 15:3-7, is by far the earliest written evidence for the core Christian beliefs about Jesus. Its proximity to the events—dating to within just a few years of the crucifixion—makes significant legendary development highly unlikely.
+
+The creed establishes a foundational four-part structure: Christ (1) died for our sins in accordance with the scriptures, (2) was buried, (3) was raised on the third day in accordance with the scriptures, and (4) appeared to various witnesses. The list of witnesses includes Cephas (Peter), the Twelve, more than 500 brothers at one time, James, all the apostles, and finally Paul himself. This text demonstrates that belief in a bodily resurrection and subsequent appearances was not a late invention of the Gospel writers but was the foundational, original belief of the very first Christians in Jerusalem.

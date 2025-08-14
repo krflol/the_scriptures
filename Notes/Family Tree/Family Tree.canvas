@@ -84,7 +84,9 @@
 		{"id":"b9f9fed409b0a8dc","x":-1200,"y":4120,"width":400,"height":92,"type":"file","file":"Notes/Family Tree/Ophir.md"},
 		{"id":"891c3346ad77494d","x":-800,"y":4120,"width":400,"height":92,"type":"file","file":"Notes/Family Tree/Hawilah(Son of Yoqtan).md"},
 		{"id":"87c75dda8301d4f9","x":-400,"y":4120,"width":400,"height":92,"type":"file","file":"Notes/Family Tree/Yobab.md"},
-		{"id":"66d0d4ccbd41c920","type":"file","file":"Notes/Family Tree/Yoqtan.md","x":-2200,"y":3680,"width":400,"height":200}
+		{"id":"66d0d4ccbd41c920","type":"file","file":"Notes/Family Tree/Yoqtan.md","x":-2200,"y":3680,"width":400,"height":200},
+		{"id":"08e711d0e78f544d","x":-4119,"y":5668,"width":400,"height":400,"type":"file","file":"Notes/Family Tree/Aḇraham.md"},
+		{"id":"7e0a0a6e29f41c0b","x":-4119,"y":6240,"width":400,"height":400,"type":"file","file":"Notes/Family Tree/Dawiḏ.md"}
 	],
 	"edges":[
 		{"id":"d2b1db04929310b8","fromNode":"2ad32c77223f7e56","fromSide":"bottom","toNode":"3d984c36e11406fc","toSide":"top"},
@@ -177,6 +179,7 @@
 		{"id":"7714eea300080694","fromNode":"66d0d4ccbd41c920","fromSide":"bottom","toNode":"b35b98b25f1fc61b","toSide":"top"},
 		{"id":"ac36c096d4173a2e","fromNode":"66d0d4ccbd41c920","fromSide":"bottom","toNode":"b9f9fed409b0a8dc","toSide":"top"},
 		{"id":"f8f7dc8d1d437ad8","fromNode":"66d0d4ccbd41c920","fromSide":"bottom","toNode":"891c3346ad77494d","toSide":"top"},
-		{"id":"3576265cdc5d37e8","fromNode":"66d0d4ccbd41c920","fromSide":"bottom","toNode":"87c75dda8301d4f9","toSide":"top"}
+		{"id":"3576265cdc5d37e8","fromNode":"66d0d4ccbd41c920","fromSide":"bottom","toNode":"87c75dda8301d4f9","toSide":"top"},
+		{"id":"7528954b21c7495d","fromNode":"08e711d0e78f544d","fromSide":"bottom","toNode":"7e0a0a6e29f41c0b","toSide":"top"}
 	]
 }

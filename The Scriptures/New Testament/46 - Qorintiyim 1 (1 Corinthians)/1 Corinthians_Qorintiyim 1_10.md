@@ -64,3 +64,69 @@
 
 <sup>33</sup> as I also please all men in all matters, not seeking my own advantage, but that of the many, that they might be saved.
 
+<sup>1</sup> For I do not wish you to be ignorant, brothers, that all our fathers were under the cloud, and all passed through the sea,
+
+<sup>2</sup> and all were immersed into Mosheh in the cloud and in the sea,
+
+<sup>3</sup> and all ate the same spiritual food,
+
+<sup>4</sup> and all drank the same spiritual drink. For they drank of that spiritual Rock that followed, and the Rock was Messiah.
+
+<sup>5</sup> However, with most of them Elohim was not well pleased, for they were laid low in the wilderness.
+
+<sup>6</sup> And these became examples for us, so that we should not lust after evil, as those indeed lusted.
+
+<sup>7</sup> And do not become idolaters as some of them, as it has been written, “The people sat down to eat and to drink, and stood up to play.”
+
+<sup>8</sup> Neither should we commit whoring, as some of them did, and in one day twenty-three thousand fell,
+
+<sup>9</sup> neither let us try Messiah, as some of them also tried, and were destroyed by serpents,
+
+<sup>10</sup> neither grumble, as some of them also grumbled, and were destroyed by the destroyer.
+
+<sup>11</sup> And all these came upon them as examples, and they were written as a warning to us, on whom the ends of the ages have come,
+
+<sup>12</sup> so that he who thinks he stands, let him take heed lest he fall.
+
+<sup>13</sup> No trial has overtaken you except such as is common to man, and Elohim is trustworthy, who shall not allow you to be tried beyond what you are able, but with the trial shall also make the way of escape, enabling you to bear it.
+
+<sup>14</sup> Therefore, my beloved ones, flee from idolatry.
+
+<sup>15</sup> I speak as to wise men, judge for yourselves what I say.
+
+<sup>16</sup> The cup of blessing which we bless, is it not a sharing in the blood of Messiah? The bread that we break, is it not a sharing in the body of Messiah?
+
+<sup>17</sup> Because there is one bread, we, who are many, are one body, for we all partake of the one bread.
+
+<sup>18</sup> Look at Yisra’ĕl after the flesh: Are not those who eat of the offerings sharers in the altar?
+
+<sup>19</sup> What then do I say? That an idol is of any value? Or that which is offered to idols is of any value?
+
+<sup>20</sup> No, but what the gentiles offer they offer to demons and not to Elohim, and I do not wish you to become sharers with demons.
+
+<sup>21</sup> You are not able to drink the cup of the Master and the cup of demons, you are not able to partake of the table of the Master and of the table of demons.
+
+<sup>22</sup> Do we provoke the Master to jealousy? Are we stronger than He?
+
+<sup>23</sup> All is permitted me, but not all do profit. All is permitted me, but not all build up.
+
+<sup>24</sup> Let no one seek his own, but each one that of the other.
+
+<sup>25</sup> You eat whatever is sold in the meat market, asking no questions because of conscience,
+
+<sup>26</sup> for “The earth belongs to יהוה, and all that fills it.”
+
+<sup>27</sup> And if any of the unbelievers invite you, and you wish to go, you eat whatever is set before you, asking no question on account of the conscience.
+
+<sup>28</sup> And if anyone says to you, “This was offered to idols,” do not eat it because of the one pointing it out to you, and on account of the conscience, for “The earth belongs to יהוה, and all that fills it.”
+
+<sup>29</sup> Now I say conscience, not your own, but that of the other. For why is my freedom judged by another’s conscience?
+
+<sup>30</sup> But if I partake with thanks, why am I evil spoken of for what I give thanks?
+
+<sup>31</sup> Therefore, whether you eat or drink, or whatever you do, do all to the esteem of Elohim.
+
+<sup>32</sup> Cause no stumbling, either to the Yehuḏim or to the Greeks or to the assembly of Elohim,
+
+<sup>33</sup> as I also please all men in all matters, not seeking my own advantage, but that of the many, that they might be saved.
+

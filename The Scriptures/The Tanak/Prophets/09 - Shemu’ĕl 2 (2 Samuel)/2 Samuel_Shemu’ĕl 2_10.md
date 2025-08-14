@@ -36,3 +36,41 @@
 
 <sup>19</sup> And all the sovereigns, the servants of Haḏaḏezer, saw that they were smitten by Yisra’ĕl, and made peace with Yisra’ĕl, and served them. And the Arameans were afraid to help the children of Ammon any more.
 
+<sup>1</sup> And after this it came to be that the sovereign of the children of Ammon died, and Ḥanun his son reigned in his place.
+
+<sup>2</sup> And Dawiḏ said, “Let me show kindness to Ḥanun son of Naḥash, as his father showed kindness to me.” So Dawiḏ sent by the hand of his servants to comfort him concerning his father. And when Dawiḏ’s servants came into the land of the children of Ammon,
+
+<sup>3</sup> the chiefs of the children of Ammon said to Ḥanun their master, “Is Dawiḏ esteeming your father in your eyes in that he has sent comforters to you? Has Dawiḏ not rather sent his servants to you to search the city, and to spy it out, and to overthrow it?”
+
+<sup>4</sup> So Ḥanun took Dawiḏ’s servants and shaved off half of their beards, and cut off their garments in the middle, as far as their buttocks, and sent them away.
+
+<sup>5</sup> And they informed Dawiḏ, and he sent to meet them, because the men were greatly ashamed. And the sovereign said, “Wait at Yeriḥo until your beards have grown, and then return.”
+
+<sup>6</sup> And when the children of Ammon saw that they had become a stench to Dawiḏ, the children of Ammon sent and hired Arameans of Bĕyth Reḥoḇ and Arameans of Tsoḇa, twenty thousand foot soldiers, and the sovereign of Ma‛aḵah, one thousand men, and men of Toḇ, twelve thousand men.
+
+<sup>7</sup> And Dawiḏ heard, and sent Yo’aḇ and the entire army, the mighty men.
+
+<sup>8</sup> And the children of Ammon came out and put themselves in battle array at the entrance of the gate. And the Arameans of Tsoḇa, and Reḥoḇ, and men of Toḇ, and Ma‛aḵah were by themselves in the field.
+
+<sup>9</sup> And Yo’aḇ saw that the battle line was against him before and behind, and he chose out of all the chosen men of Yisra’ĕl and put them in battle array against the Arameans.
+
+<sup>10</sup> And the rest of the people he gave under the hand of Aḇishai his brother, and he put them in battle array against the children of Ammon.
+
+<sup>11</sup> And he said, “If the Arameans are too strong for me, then you shall help me. But if the children of Ammon are too strong for you, then I shall come and help you.
+
+<sup>12</sup> “Be strong, and let us show strength for our people and for the cities of our Elohim, and let יהוה do what is good in His eyes.”
+
+<sup>13</sup> And Yo’aḇ drew near, and the people with him, to battle against Aram, and they fled before him.
+
+<sup>14</sup> And when the children of Ammon saw that the Arameans were fleeing, they also fled before Aḇishai, and went into the city. And Yo’aḇ returned from the children of Ammon and came to Yerushalayim.
+
+<sup>15</sup> And Aram saw that they were smitten before Yisra’ĕl, and they gathered together,
+
+<sup>16</sup> and Haḏaḏezer sent and brought out the Arameans who were beyond the River, and they came to Ḥĕlam. And Shoḇaḵ the commander of the army of Haḏaḏezer went before them.
+
+<sup>17</sup> And it was reported to Dawiḏ, and he gathered all Yisra’ĕl, and passed over the Yardĕn, and came to Ḥĕlam. And Aram set themselves in battle array against Dawiḏ and they fought with him.
+
+<sup>18</sup> And Aram fled before Yisra’ĕl, and Dawiḏ slew seven hundred charioteers and forty thousand horsemen of Aram, and he smote Shoḇaḵ, commander of their army, who died there.
+
+<sup>19</sup> And all the sovereigns, the servants of Haḏaḏezer, saw that they were smitten by Yisra’ĕl, and made peace with Yisra’ĕl, and served them. And the Arameans were afraid to help the children of Ammon any more.
+
