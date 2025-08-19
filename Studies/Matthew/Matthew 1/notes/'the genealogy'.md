@@ -1,0 +1,7 @@
+## Part I: The Proclamation of the Messiah's Identity (Matthew 1:1)
+
+### "The book of the genealogy..."
+
+The Gospel opens with the phrase, "The book of the genealogy of Jesus Christ" (Βίβλος γενέσεως Ἰησοῦ Χριστοῦ, _Biblos geneseos Iesou Christou_). The Greek term _genesis_ carries a deliberate and profound double meaning. On one level, it simply means "genealogy," "origin," or "account of origin". However, for any Greek-speaking reader familiar with the Septuagint (the Greek translation of the Hebrew Bible), the phrase  
+
+_biblos geneseos_ would immediately evoke the foundational book of their scriptures. It is the very phrase used in Genesis 2:4 ("This is the book of the generations of the heavens and the earth") and Genesis 5:1 ("This is the book of the generations of Adam"). By employing this specific language, the author makes a monumental theological claim from his very first words: the story of Jesus is not just another chapter in history, but a new beginning, a new creation. Just as the book of Genesis narrated the origin of the cosmos and the establishment of Abraham's family, this book will narrate the origin of the one in whom that entire story finds its ultimate purpose and climax.

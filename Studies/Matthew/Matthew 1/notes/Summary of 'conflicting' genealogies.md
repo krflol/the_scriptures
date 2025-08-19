@@ -1,0 +1,1 @@
+Matthew establishes the LEGAL right, Lucas establishes the BLOOD right to the throne.

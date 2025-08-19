@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"id":"de521cf0f021ef70","type":"file","file":"Studies/Matthew/Matthew 1/notes/'the genealogy'.md","x":640,"y":-440,"width":400,"height":400},
+		{"id":"ed25ee7430179c9a","type":"file","file":"Studies/Matthew/Matthew 1/notes/The son of David.md","x":1240,"y":-440,"width":400,"height":400},
+		{"id":"b467a89f9e601366","type":"file","file":"Studies/Matthew/Matthew 1/notes/The sets of 14 starting at 2.md","x":640,"y":849,"width":400,"height":400},
+		{"id":"51edfda5b1371af4","type":"file","file":"Studies/Matthew/Matthew 1/notes/The first Fourtneen.md","x":1166,"y":849,"width":400,"height":400},
+		{"id":"869ee780571f79b5","type":"file","file":"Studies/Matthew/Matthew 1/notes/the second 14.md","x":2160,"y":849,"width":400,"height":400},
+		{"id":"f08d91e326e0f6c3","type":"file","file":"Studies/Matthew/Matthew 1/notes/The third fourteen.md","x":1640,"y":849,"width":400,"height":400},
+		{"id":"03eead9561d90890","type":"file","file":"The Scriptures/New Testament/40 - Mattithyahu (Matthew)/Matthew_Mattithyahu_1.md","x":-240,"y":100,"width":400,"height":400},
+		{"id":"4913dcd6677d63e3","type":"file","file":"The Scriptures/New Testament/42 - Luqas (Luke)/Luke_Luqas_3.md","x":1760,"y":100,"width":400,"height":400},
+		{"id":"2830c975ed668ffe","x":640,"y":1520,"width":400,"height":400,"type":"file","file":"Studies/Matthew/Matthew 1/notes/Part III The Divine Origin of the King (Matthew 1 18-25).md"},
+		{"id":"73927cb0b159960e","x":1640,"y":1540,"width":480,"height":400,"type":"file","file":"The Scriptures/The Tanak/The Torah/05 - Deḇarim (Deuteronomy)/Deuteronomy_Deḇarim_22.md"},
+		{"id":"aa5a2ccb68575720","x":1160,"y":1680,"width":250,"height":60,"type":"text","text":"(Deuteronomy 22:23–24)"},
+		{"id":"3ddb907f801950ee","x":-240,"y":1210,"width":400,"height":400,"type":"file","file":"Studies/Matthew/Matthew 1/notes/Conclusion.md"},
+		{"id":"e92363fcf91e828d","type":"file","file":"Studies/Matthew/Matthew 1/notes/Luke 3 23–38 comparison.md","x":640,"y":300,"width":400,"height":400},
+		{"id":"7ddc403d80348ec8","x":1240,"y":300,"width":400,"height":400,"type":"file","file":"Studies/Matthew/Matthew 1/notes/Two Testaments to One Messia_ A Theological and Historical Analysis of the Genealogies of Jesus Christ.md"}
+	],
+	"edges":[
+		{"id":"8f85de4d531c18d9","fromNode":"03eead9561d90890","fromSide":"right","toNode":"de521cf0f021ef70","toSide":"left"},
+		{"id":"c7aa0ab36db82382","fromNode":"de521cf0f021ef70","fromSide":"right","toNode":"ed25ee7430179c9a","toSide":"left"},
+		{"id":"5f97ff79f33bd34d","fromNode":"03eead9561d90890","fromSide":"right","toNode":"b467a89f9e601366","toSide":"left"},
+		{"id":"1a4ffd0adfe56fd0","fromNode":"b467a89f9e601366","fromSide":"right","toNode":"51edfda5b1371af4","toSide":"left"},
+		{"id":"ef898dc91822b74f","fromNode":"b467a89f9e601366","fromSide":"right","toNode":"869ee780571f79b5","toSide":"left"},
+		{"id":"458bb7880ec79d22","fromNode":"b467a89f9e601366","fromSide":"right","toNode":"f08d91e326e0f6c3","toSide":"left"},
+		{"id":"dd71877f45912d79","fromNode":"03eead9561d90890","fromSide":"right","toNode":"4913dcd6677d63e3","toSide":"left","label":"comparison of genealogies\n\n"},
+		{"id":"66cbf7035d9246e5","fromNode":"e92363fcf91e828d","fromSide":"left","toNode":"03eead9561d90890","toSide":"right"},
+		{"id":"08cb1b48f7a20e7d","fromNode":"e92363fcf91e828d","fromSide":"right","toNode":"4913dcd6677d63e3","toSide":"left"},
+		{"id":"823deb8afa6db052","fromNode":"03eead9561d90890","fromSide":"right","toNode":"2830c975ed668ffe","toSide":"left"},
+		{"id":"05c583575c490af6","fromNode":"2830c975ed668ffe","fromSide":"right","toNode":"aa5a2ccb68575720","toSide":"left"},
+		{"id":"220848a0573223ce","fromNode":"aa5a2ccb68575720","fromSide":"right","toNode":"73927cb0b159960e","toSide":"left"},
+		{"id":"00c5f75d21fb820d","fromNode":"03eead9561d90890","fromSide":"bottom","toNode":"3ddb907f801950ee","toSide":"top"},
+		{"id":"1582441281525457","fromNode":"e92363fcf91e828d","fromSide":"right","toNode":"7ddc403d80348ec8","toSide":"left"},
+		{"id":"7efa7c55ee873bdc","fromNode":"7ddc403d80348ec8","fromSide":"left","toNode":"e92363fcf91e828d","toSide":"right"},
+		{"id":"ed5c291fd88e43a4","fromNode":"03eead9561d90890","fromSide":"right","toNode":"7ddc403d80348ec8","toSide":"left"}
+	]
+}

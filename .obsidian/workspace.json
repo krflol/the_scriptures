@@ -4,72 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "b624025f1977d355",
+        "id": "b563297bb457c174",
         "type": "split",
         "children": [
           {
-            "id": "4b815682c8c74df0",
+            "id": "ed5376a46ece403f",
             "type": "tabs",
             "children": [
               {
-                "id": "96003d628549a8f1",
+                "id": "4d0e5cadccc1100b",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "canvas",
                   "state": {
-                    "file": "Notes/Family Tree/Family Tree.canvas",
+                    "file": "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
                     "viewState": {
-                      "x": -3217.7212288370506,
-                      "y": 6007.137129792127,
-                      "zoom": -3.3333333333333335
+                      "x": -969.9594863051591,
+                      "y": 2472.9902819172557,
+                      "zoom": -2.6666666666666665
                     }
                   },
                   "pinned": true,
                   "icon": "lucide-layout-dashboard",
-                  "title": "Family Tree"
-                }
-              },
-              {
-                "id": "98757df4229e2585",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Studies/Fatherhood/Canvas/Week1.canvas",
-                    "viewState": {
-                      "x": 733,
-                      "y": 422,
-                      "zoom": 0
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Week1"
+                  "title": "The Death and Ressurection of Jesus"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "74f179d532dd8ac8",
+            "id": "a549251ee273b539",
             "type": "tabs",
             "children": [
               {
-                "id": "d2248a0ea760218d",
+                "id": "863db27b3017b5e1",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Studies/Fatherhood/Week 1/Fatherhood wk1.md",
+                    "file": "Studies/TheDeathAndRessurection/The Criterion of Coherence.md",
                     "mode": "source",
                     "source": false
                   },
-                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Fatherhood wk1"
+                  "title": "The Criterion of Coherence"
                 }
               }
             ]
@@ -84,15 +62,17 @@
           {
             "id": "73da812d30705205",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Scriptures/The Tanak/First Writings (Kethubim)/31 - Shir haShirim (Song of Songs)/Song of Songs_Shir haShirim_1.md",
+                "file": "The Scriptures/New Testament/40 - Mattithyahu (Matthew)/Matthew_Mattithyahu_1.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Song of Songs_Shir haShirim_1"
+              "title": "Matthew_Mattithyahu_1"
             }
           }
         ]
@@ -168,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Scriptures/The Tanak/First Writings (Kethubim)/31 - Shir haShirim (Song of Songs)/Song of Songs_Shir haShirim_1.md",
+                "file": "Studies/TheDeathAndRessurection/The Criterion of Coherence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Song of Songs_Shir haShirim_1"
+              "title": "Backlinks for The Criterion of Coherence"
             }
           },
           {
@@ -187,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Scriptures/The Tanak/First Writings (Kethubim)/31 - Shir haShirim (Song of Songs)/Song of Songs_Shir haShirim_1.md",
+                "file": "Studies/TheDeathAndRessurection/Isaiah 52 and 53 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Song of Songs_Shir haShirim_1"
+              "title": "Outgoing links from Isaiah 52 and 53 Notes"
             }
           },
           {
@@ -242,48 +222,48 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "64a4fd3696d1db09",
+  "active": "4d0e5cadccc1100b",
   "lastOpenFiles": [
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_9.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_8.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_7.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_6.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_5.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_4.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_2.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_3.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_13.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_12.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_11.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_10.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)/Hebrews_Iḇ'rim_1.md",
-    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)",
-    "Studies/Fatherhood/Week 1/Fatherhood wk1.md",
-    "Studies/Fatherhood/Canvas/Week1.canvas",
-    "The Scriptures/New Testament/45 - Romiyim (Romans)/Romans_Romiyim_8.md",
-    "The Scriptures/The Tanak/First Writings (Kethubim)/28 - Tehillim (Psalms)/Psalms_Tehillim_103.md",
-    "The Scriptures/New Testament/40 - Mattithyahu (Matthew)/Matthew_Mattithyahu_1.md",
     "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
-    "Studies/Fatherhood/Canvas/Fatherhood.canvas",
-    "Studies/Fatherhood/Fatherhood.md",
-    "Studies/Fatherhood/Week 1",
+    "Studies/TheDeathAndRessurection/The Criterion of Coherence.md",
+    "Studies/TheDeathAndRessurection/The Criterion of Multiple Attestation.md",
+    "Studies/TheDeathAndRessurection/The Critereon of Embarassment.md",
+    "Studies/TheDeathAndRessurection/The Criterion of Authenticity.md",
     "Notes/Family Tree/Family Tree.canvas",
-    "Studies/Fatherhood/Canvas",
-    "Studies/Fatherhood",
-    "Notes/Family Tree/Dawiḏ.md",
-    "Notes/Family Tree/Aḇraham.md",
+    "Studies/TheDeathAndRessurection/Isaiah 52 and 53 Notes.md",
+    "Studies/Matthew/Matthew 1/Matthew1.canvas",
+    "Studies/Matthew/Matthew 1/notes/Summary of 'conflicting' genealogies.md",
+    "Studies/Matthew/Matthew 1/notes/Two Testaments to One Messia_ A Theological and Historical Analysis of the Genealogies of Jesus Christ.md",
+    "Studies/Matthew/Matthew 1/notes/The son of David.md",
+    "The Scriptures/New Testament/40 - Mattithyahu (Matthew)/Matthew_Mattithyahu_1.md",
+    "Studies/Matthew/Matthew 1/notes/Conclusion.md",
     "Studies/Matthew/Matthew 1/Matthew 1.md",
-    "Studies/Matthew",
-    "Studies/Matthew/Matthew 1",
-    "Studies/TheDeathAndRessurection/Secular and nonbiblical history.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_1.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_12.md",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_5.md",
-    "The Scriptures/New Testament/43 - Yoḥanan (John)/John_Yoḥanan_21.md",
-    "Studies/TheDeathAndRessurection",
-    "Studies",
-    "scripture_viewer/TheScriptures.html",
-    "scripture_viewer/index - Copy.html",
+    "Studies/Matthew/Matthew 1/notes/Part III The Divine Origin of the King (Matthew 1 18-25).md",
+    "Studies/Matthew/Matthew 1/notes/Luke 3 23–38 comparison.md",
+    "The Scriptures/The Tanak/The Torah/05 - Deḇarim (Deuteronomy)/Deuteronomy_Deḇarim_22.md",
+    "Studies/Matthew/Matthew 1/notes/The first Fourtneen.md",
+    "The Scriptures/New Testament/42 - Luqas (Luke)/Luke_Luqas_3.md",
+    "Studies/Matthew/Matthew 1/notes/The third fourteen.md",
+    "Studies/Matthew/Matthew 1/notes/the second 14.md",
+    "Studies/Matthew/Matthew 1/notes/The sets of 14 starting at 2.md",
+    "The Scriptures/The Tanak/First Writings (Kethubim)/28 - Tehillim (Psalms)/Psalms_Tehillim_22.md",
+    "Studies/Matthew/Matthew 1/notes/The name of Jesus.md",
+    "Studies/Matthew/Matthew 1/notes",
+    "Studies/Matthew/Matthew 1/notes/'the genealogy'.md",
+    "The Scriptures/The Tanak/Prophets/12 - Yeshayahu (Isaiah)/Isaiah_Yeshayahu_52.md",
+    "The Scriptures/The Tanak/Prophets/12 - Yeshayahu (Isaiah)/Isaiah_Yeshayahu_53.md",
+    "Studies/Fatherhood/Week 1/Hebrews 12 5-11.md",
+    "The Scriptures/New Testament/62 - Yoḥanan 1 (1 John)",
+    "The Scriptures/New Testament/60 - Kĕpha 1 (1 Peter)",
+    "The Scriptures/New Testament/59 - Ya`aqoḇ (James)",
+    "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)",
+    "The Scriptures/New Testament/55 - Timotiyos 2 (2 Timothy)",
+    "The Scriptures/New Testament/54 - Timotiyos 1 (1 Timothy)",
+    "The Scriptures/New Testament/52 - Tas'loniqim 1 (1 Thessalonians)",
+    "The Scriptures/New Testament/51 - Qolasim (Colossians)",
+    "The Scriptures/New Testament/49 - Ephsiyim (Ephesians)",
+    "Studies/Fatherhood/Canvas/Week1.canvas",
+    "Studies/Fatherhood/Canvas/Fatherhood.canvas",
     "Notes/Family Tree/Untitled.canvas",
     "Notes/Maps/Genesis/Canaan Borders/Pasted image 20250809225950.png",
     "The Scriptures/The Tanak/The Tanak.canvas",

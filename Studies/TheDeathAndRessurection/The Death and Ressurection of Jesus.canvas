@@ -24,10 +24,15 @@
 		{"id":"ad2f184ec11bfbc2","type":"file","file":"The Scriptures/New Testament/44 - Ma`aseh (Acts)/Acts_Ma`aseh_1.md","x":1408,"y":-830,"width":400,"height":400},
 		{"id":"62e0c11dbd0d94c6","type":"file","file":"The Scriptures/New Testament/44 - Ma`aseh (Acts)/Acts_Ma`aseh_2.md","x":1416,"y":-234,"width":400,"height":400},
 		{"id":"40feeee061b3ee4f","type":"file","file":"The Scriptures/New Testament/43 - Yoḥanan (John)/John_Yoḥanan_21.md","x":3040,"y":-430,"width":400,"height":400},
-		{"id":"f409c0b46eb71b3d","x":-3040,"y":-1840,"width":400,"height":400,"type":"file","file":"The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_1.md"},
-		{"id":"c3c8ea5a4034727c","x":-3040,"y":-2880,"width":400,"height":400,"type":"file","file":"The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_5.md"},
-		{"id":"33a55ddf03acb4aa","x":-3040,"y":-2440,"width":400,"height":400,"type":"file","file":"The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_12.md"},
-		{"id":"d80460de1c9c647a","x":-1187,"y":920,"width":400,"height":400,"type":"file","file":"Studies/TheDeathAndRessurection/Secular and nonbiblical history.md"}
+		{"id":"f409c0b46eb71b3d","type":"file","file":"The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_1.md","x":-3040,"y":-1840,"width":400,"height":400},
+		{"id":"c3c8ea5a4034727c","type":"file","file":"The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_5.md","x":-3040,"y":-2880,"width":400,"height":400},
+		{"id":"33a55ddf03acb4aa","type":"file","file":"The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_12.md","x":-3040,"y":-2440,"width":400,"height":400},
+		{"id":"d80460de1c9c647a","type":"file","file":"Studies/TheDeathAndRessurection/Secular and nonbiblical history.md","x":-1187,"y":920,"width":400,"height":400},
+		{"id":"a78b1d446f99133d","x":-2016,"y":1657,"width":400,"height":400,"type":"file","file":"Studies/TheDeathAndRessurection/The Criterion of Authenticity.md"},
+		{"id":"7dea61df7b228db7","x":-2416,"y":2240,"width":400,"height":400,"type":"file","file":"Studies/TheDeathAndRessurection/The Critereon of Embarassment.md"},
+		{"id":"d8c3de70a714f2b3","x":-1816,"y":2240,"width":400,"height":400,"type":"file","file":"Studies/TheDeathAndRessurection/The Criterion of Multiple Attestation.md"},
+		{"id":"c03dbf35ebbe7252","x":-1840,"y":2838,"width":424,"height":361,"type":"text","text":"When the criterion of multiple attestation is applied to the claim of Jesus's death by crucifixion under the authority of the Roman prefect Pontius Pilate, it yields one of the most secure and widely accepted conclusions in the study of ancient history. The event is attested by a remarkable convergence of sources that are not only numerous but also diverse in their origin, genre, and perspective, creating a cumulative case that even the most skeptical of critical historians find compelling."},
+		{"id":"b639f5bd6e6466be","x":-1187,"y":2240,"width":400,"height":400,"type":"file","file":"Studies/TheDeathAndRessurection/The Criterion of Coherence.md"}
 	],
 	"edges":[
 		{"id":"6feb833db6b1db5f","fromNode":"2aaa72e62afe07bc","fromSide":"bottom","toNode":"55293ad9bd65fb33","toSide":"top","label":"Continues to 53"},
@@ -57,6 +62,10 @@
 		{"id":"47d93eded331d35d","fromNode":"a5b678b3aab9603c","fromSide":"left","toNode":"c3c8ea5a4034727c","toSide":"right","label":"Revelation 5:6"},
 		{"id":"12fc6824f49dbb84","fromNode":"a5b678b3aab9603c","fromSide":"left","toNode":"33a55ddf03acb4aa","toSide":"right","label":"(Revelation 12:11"},
 		{"id":"ed280da0bc7fba3e","fromNode":"a5b678b3aab9603c","fromSide":"left","toNode":"f409c0b46eb71b3d","toSide":"right","label":"Revelation 1:5\n\"and from יהושע Messiah, the trustworthy witness, the first-born from the dead, and the ruler of the sovereigns of the earth. To Him who loved us and washed us from our sins in His own blood,"},
-		{"id":"328e37a7685dc9ec","fromNode":"cff13c68fd39ce76","fromSide":"bottom","toNode":"d80460de1c9c647a","toSide":"right"}
+		{"id":"328e37a7685dc9ec","fromNode":"cff13c68fd39ce76","fromSide":"bottom","toNode":"d80460de1c9c647a","toSide":"right"},
+		{"id":"00aac18475c85da4","fromNode":"d80460de1c9c647a","fromSide":"bottom","toNode":"a78b1d446f99133d","toSide":"top"},
+		{"id":"b01f5b21ad1ab290","fromNode":"a78b1d446f99133d","fromSide":"bottom","toNode":"7dea61df7b228db7","toSide":"top"},
+		{"id":"056c3b4ad79e9c27","fromNode":"a78b1d446f99133d","fromSide":"bottom","toNode":"d8c3de70a714f2b3","toSide":"top"},
+		{"id":"01fab4b2f36afdbf","fromNode":"d8c3de70a714f2b3","fromSide":"bottom","toNode":"c03dbf35ebbe7252","toSide":"top"}
 	]
 }
