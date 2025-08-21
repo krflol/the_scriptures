@@ -42,15 +42,15 @@
                 "state": {
                   "type": "canvas",
                   "state": {
-                    "file": "Studies/Matthew/Matthew 2/Matthew 2.canvas",
+                    "file": "Studies/Matthew/Matthew 1/Matthew1.canvas",
                     "viewState": {
-                      "x": 287.6746313928514,
-                      "y": 36.691148910174576,
-                      "zoom": -0.3333333333333334
+                      "x": 1901.1896012287284,
+                      "y": 289.410906282379,
+                      "zoom": -1.2428389190765492
                     }
                   },
                   "icon": "lucide-layout-dashboard",
-                  "title": "Matthew 2"
+                  "title": "Matthew1"
                 }
               }
             ]
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
+                "file": "Studies/Matthew/Matthew 1/Matthew1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Death and Ressurection of Jesus"
+              "title": "Backlinks for Matthew1"
             }
           },
           {
@@ -221,8 +221,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4d0e5cadccc1100b",
+  "active": "863db27b3017b5e1",
   "lastOpenFiles": [
+    "Studies/Matthew/Matthew 1/Matthew 1.md",
+    "Studies/Matthew/Matthew 1/Matthew1.canvas",
+    "Studies/Matthew/Matthew 2/Matthew 2.canvas",
+    "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
     "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_021.md",
     "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_022.md",
     "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_020.md",
@@ -251,7 +255,6 @@
     "The Scriptures/New Testament/64 - Yoḥanan 3 (3 John)/3 John_Yoḥanan 3_001.md",
     "The Scriptures/New Testament/64 - Yoḥanan 3 (3 John)",
     "The Scriptures/New Testament/62 - Yoḥanan 1 (1 John)/1 John_Yoḥanan 1_005.md",
-    "The Scriptures/New Testament/62 - Yoḥanan 1 (1 John)/1 John_Yoḥanan 1_003.md",
     "The Scriptures/New Testament/62 - Yoḥanan 1 (1 John)",
     "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)",
     "The Scriptures/New Testament/60 - Kĕpha 1 (1 Peter)",
@@ -259,10 +262,7 @@
     "The Scriptures/New Testament/58 - Iḇ'rim (Hebrews)",
     "The Scriptures/New Testament/57 - Pilemon (Philemon)",
     "The Scriptures/New Testament/56 - Titos (Titus)",
-    "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
-    "Studies/Matthew/Matthew 2/Matthew 2.canvas",
     "Notes/Family Tree/Family Tree.canvas",
-    "Studies/Matthew/Matthew 1/Matthew1.canvas",
     "Studies/Fatherhood/Canvas/Week1.canvas",
     "Studies/Fatherhood/Canvas/Fatherhood.canvas",
     "Notes/Family Tree/Untitled.canvas",
