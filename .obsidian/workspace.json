@@ -20,9 +20,9 @@
                   "state": {
                     "file": "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
                     "viewState": {
-                      "x": -969.9594863051591,
-                      "y": 2472.9902819172557,
-                      "zoom": -2.6666666666666665
+                      "x": 2144.2241832624923,
+                      "y": 1980.8187812496512,
+                      "zoom": -1.3333333333333333
                     }
                   },
                   "pinned": true,
@@ -40,17 +40,14 @@
                 "id": "863db27b3017b5e1",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "Studies/Matthew/Matthew 2/Matthew 2.canvas",
-                    "viewState": {
-                      "x": 202,
-                      "y": 65,
-                      "zoom": -1.3333333333333333
-                    }
+                    "file": "The Scriptures/The Tanak/Prophets/12 - Yeshayahu (Isaiah)/Isaiah_Yeshayahu_0053.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "Matthew 2"
+                  "icon": "lucide-file",
+                  "title": "Isaiah_Yeshayahu_0053"
                 }
               }
             ]
@@ -147,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/Matthew/Matthew 2/Matthew 2.canvas",
+                "file": "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Matthew 2"
+              "title": "Backlinks for The Death and Ressurection of Jesus"
             }
           },
           {
@@ -221,8 +218,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "863db27b3017b5e1",
+  "active": "4d0e5cadccc1100b",
   "lastOpenFiles": [
+    "The Scriptures/The Tanak/Prophets/12 - Yeshayahu (Isaiah)/Isaiah_Yeshayahu_0053.md",
+    "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
+    "Studies/Matthew/Matthew 2/Matthew 2.canvas",
     "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_009.md",
     "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_008.md",
     "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_007.md",
@@ -251,7 +251,6 @@
     "The Scriptures/New Testament/63 - Yoḥanan 2 (2 John)/2 John_Yoḥanan 2_001.md",
     "The Scriptures/New Testament/63 - Yoḥanan 2 (2 John)",
     "The Scriptures/New Testament/62 - Yoḥanan 1 (1 John)/1 John_Yoḥanan 1_004.md",
-    "The Scriptures/New Testament/62 - Yoḥanan 1 (1 John)/1 John_Yoḥanan 1_005.md",
     "The Scriptures/New Testament/62 - Yoḥanan 1 (1 John)",
     "The Scriptures/New Testament/61 - Kĕpha 2 (2 Peter)",
     "The Scriptures/New Testament/60 - Kĕpha 1 (1 Peter)",
@@ -259,8 +258,6 @@
     "The Scriptures/New Testament/57 - Pilemon (Philemon)",
     "The Scriptures/New Testament/56 - Titos (Titus)",
     "The Scriptures/New Testament/55 - Timotiyos 2 (2 Timothy)",
-    "Studies/Matthew/Matthew 2/Matthew 2.canvas",
-    "Studies/TheDeathAndRessurection/The Death and Ressurection of Jesus.canvas",
     "Notes/Family Tree/Family Tree.canvas",
     "Studies/Matthew/Matthew 1/Matthew1.canvas",
     "Studies/Fatherhood/Canvas/Week1.canvas",
