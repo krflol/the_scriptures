@@ -229,7 +229,7 @@ def parse_and_import():
 
                     os.makedirs(book_dir, exist_ok=True)
 
-                    chapter_filename = f"{common_name}_{hebrew_name}_{chapter}.md"
+                    chapter_filename = f"{common_name}_{hebrew_name}_00{chapter}.md"#TODO LEADING ZEROS fix
                     chapter_file = os.path.join(book_dir, chapter_filename)
                     with open(chapter_file, 'a', encoding='utf-8') as cf:
                         cf.write(f"<sup>{verse}</sup> {verse_text}\n\n")
@@ -277,7 +277,7 @@ def parse_and_import():
 
                         os.makedirs(book_dir, exist_ok=True)
 
-                        chapter_filename = f"{common_name}_{hebrew_name}_{chapter}.md"
+                        chapter_filename = f"{common_name}_{hebrew_name}_00{chapter}.md" #TODO LEADING ZEROS fix
                         chapter_file = os.path.join(book_dir, chapter_filename)
                         with open(chapter_file, 'a', encoding='utf-8') as cf:
                             cf.write(f"<sup>{verse}</sup> {verse_text}\n\n")
