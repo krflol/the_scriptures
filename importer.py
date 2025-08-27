@@ -129,6 +129,8 @@ BOOK_ALIASES = {
     "2Thes": "2Thess",
     # Philemon
     "Phlm": "Philem",
+    # Philippians
+    "Philip": "Phil",
     # James
     "Jas": "James",
     # Hebrews
