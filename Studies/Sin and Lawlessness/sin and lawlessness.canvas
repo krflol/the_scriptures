@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"68727036319a4d71","x":400,"y":0,"width":400,"height":400,"type":"file","file":"The Scriptures/The Tanak/The Torah/01 - Bereshith (Genesis)/Genesis_Bereshith_003.md"},
+		{"id":"64d0d9c932c7e52d","x":948,"y":167,"width":250,"height":60,"type":"text","text":"4-6"},
+		{"id":"f2b56a679333c81f","x":-43,"y":701,"width":400,"height":400,"type":"file","file":"The Scriptures/New Testament/45 - Romiyim (Romans)/Romans_Romiyim_005.md"},
+		{"id":"f99c3aa247274ed9","x":-570,"y":849,"width":250,"height":60,"type":"text","text":"20"},
+		{"id":"56fe6d22efd6fb84","x":620,"y":760,"width":400,"height":400,"type":"file","file":"The Scriptures/New Testament/56 - Titos (Titus)/Titus_Titos_002.md"},
+		{"id":"ddf5fc995a9b4ea0","x":1214,"y":922,"width":250,"height":60,"type":"text","text":"14"},
+		{"id":"f7c75f9c75e75d86","x":1264,"y":0,"width":400,"height":400,"type":"file","file":"The Scriptures/The Tanak/Prophets/14 - Yeḥezqĕl (Ezekiel)/Ezekiel_Yeḥezqĕl_036.md"},
+		{"id":"e61c608fdcce321c","x":1857,"y":170,"width":250,"height":60,"type":"text","text":"26-end"},
+		{"id":"ab24d5b1acf6bf48","x":820,"y":-480,"width":400,"height":400,"type":"file","file":"The Scriptures/The Tanak/Prophets/13 - Yirmeyahu (Jeremiah)/Jeremiah_Yirmeyahu_031.md"},
+		{"id":"ddd787b12b7c2e98","x":1420,"y":-294,"width":250,"height":60,"type":"text","text":"33-34"},
+		{"id":"59ede34daa84e249","x":-230,"y":1402,"width":250,"height":60,"type":"text","text":"3-10"},
+		{"id":"994f9cd4102a3c1a","x":157,"y":1280,"width":400,"height":400,"type":"file","file":"The Scriptures/New Testament/62 - Yoḥanan 1 (1 John)/1 John_Yoḥanan 1_003.md"}
+	],
+	"edges":[
+		{"id":"b8b44658cda1c780","fromNode":"68727036319a4d71","fromSide":"right","toNode":"64d0d9c932c7e52d","toSide":"left"},
+		{"id":"dcb9ecbe4a71b7bd","fromNode":"59ede34daa84e249","fromSide":"right","toNode":"994f9cd4102a3c1a","toSide":"left"},
+		{"id":"285e2738d908677f","fromNode":"f2b56a679333c81f","fromSide":"left","toNode":"f99c3aa247274ed9","toSide":"right"},
+		{"id":"b05ef16cc3e7cab6","fromNode":"56fe6d22efd6fb84","fromSide":"right","toNode":"ddf5fc995a9b4ea0","toSide":"left"},
+		{"id":"1e0defb58dd5e219","fromNode":"f7c75f9c75e75d86","fromSide":"right","toNode":"e61c608fdcce321c","toSide":"left"},
+		{"id":"490ee0165bdccef0","fromNode":"ab24d5b1acf6bf48","fromSide":"right","toNode":"ddd787b12b7c2e98","toSide":"left"}
+	]
+}
