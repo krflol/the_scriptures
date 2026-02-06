@@ -15,14 +15,17 @@
                 "id": "cb745af6c384b8f4",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "The Scriptures/The Tanak/Prophets/13 - Yirmeyahu (Jeremiah)/Jeremiah_Yirmeyahu_031.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Studies/Fatherhood/Canvas/Week1.canvas",
+                    "viewState": {
+                      "x": 3102.3086560364463,
+                      "y": 1718.1788154897495,
+                      "zoom": -3.7189014430641176
+                    }
                   },
-                  "icon": "lucide-file",
-                  "title": "Jeremiah_Yirmeyahu_031"
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Week1"
                 }
               }
             ]
@@ -126,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/Sin and Lawlessness/sin and lawlessness.canvas",
+                "file": "Studies/Fatherhood/Canvas/Week1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sin and lawlessness"
+              "title": "Backlinks for Week1"
             }
           },
           {
@@ -201,10 +204,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "261d2fd6e82356fa",
+  "active": "cb745af6c384b8f4",
   "lastOpenFiles": [
-    "The Scriptures/The Tanak/Prophets/13 - Yirmeyahu (Jeremiah)/Jeremiah_Yirmeyahu_001.md",
+    "The Scriptures/The Tanak/First Writings (Kethubim)/28 - Tehillim (Psalms)/Psalms_Tehillim_103.md",
     "Studies/Sin and Lawlessness/sin and lawlessness.canvas",
+    "The Scriptures/The Tanak/Prophets/13 - Yirmeyahu (Jeremiah)/Jeremiah_Yirmeyahu_031.md",
+    "The Scriptures/The Tanak/Prophets/13 - Yirmeyahu (Jeremiah)/Jeremiah_Yirmeyahu_001.md",
     "The Scriptures/The Tanak/Prophets/13 - Yirmeyahu (Jeremiah)/Jeremiah_Yirmeyahu_033.md",
     "The Scriptures/New Testament/45 - Romiyim (Romans)/Romans_Romiyim_005.md",
     "The Scriptures/The Tanak/Prophets/14 - Yeḥezqĕl (Ezekiel)/Ezekiel_Yeḥezqĕl_036.md",
@@ -232,9 +237,7 @@
     "Studies/TheDeathAndRessurection/The Criterion of Coherence.md",
     "The Scriptures/New Testament/57 - Pilemon (Philemon)/Philemon_Pilemon_001.md",
     "The Scriptures/New Testament/57 - Pilemon (Philemon)",
-    "The Scriptures/The Tanak/Prophets/19 - Oḇaḏyah (Obadiah)/Obadiah_Oḇaḏyah_001.md",
     "The Scriptures/The Tanak/Prophets/19 - Oḇaḏyah (Obadiah)",
-    "The Scriptures/New Testament/66 - Ḥazon (Revelation)/Revelation_Ḥazon_022.md",
     "The Scriptures/New Testament/66 - Ḥazon (Revelation)",
     "The Scriptures/New Testament/65 - Yehuḏah (Jude)",
     "The Scriptures/New Testament/64 - Yoḥanan 3 (3 John)",

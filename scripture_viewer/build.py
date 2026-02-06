@@ -51,7 +51,11 @@ def parse_chapter_files(book_dir: str) -> dict:
             if entry.is_file() and entry.name.lower().endswith('.md'):
                 base = os.path.splitext(entry.name)[0]
                 m = re.search(r'_(\d+)$', base)
-                chapter_key = m.group(1) if m else base
+                if m:
+                    # Normalize chapter keys to non-zero-padded numeric strings (e.g., "001" -> "1")
+                    chapter_key = str(int(m.group(1)))
+                else:
+                    chapter_key = base
                 with open(entry.path, 'r', encoding='utf-8') as f:
                     verses = [p for p in (parse_verse_line(line) for line in f) if p]
                 if verses:

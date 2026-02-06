@@ -28,6 +28,21 @@ document.addEventListener('DOMContentLoaded', () => {
         return html.replace(/<[^>]+>/g, ' ');
     }
 
+    function normalizeChapterKey(chapter) {
+        const s = String(chapter);
+        if (/^\d+$/.test(s)) return String(parseInt(s, 10));
+        return s;
+    }
+
+    function findChapterKey(chaptersSet, chapter) {
+        if (!chaptersSet) return null;
+        const norm = normalizeChapterKey(chapter);
+        if (chaptersSet.has(norm)) return norm;
+        const s = String(chapter);
+        if (chaptersSet.has(s)) return s;
+        return null;
+    }
+
     function tokenize(text) {
         return text
             .toLowerCase()
@@ -355,15 +370,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Content Display ---
     function getVerses(division, book, chapter, subsection = null) {
+        const normChapter = normalizeChapterKey(chapter);
         if (subsection) {
-            return scriptureData[division]?.[subsection]?.[book]?.[chapter];
+            return scriptureData[division]?.[subsection]?.[book]?.[normChapter]
+                || scriptureData[division]?.[subsection]?.[book]?.[String(chapter)];
         }
         // If not provided, try to locate the book in any subsection
         const divObj = scriptureData[division];
         if (!divObj) return null;
-        if (divObj[book]?.[chapter]) return divObj[book][chapter];
+        if (divObj[book]?.[normChapter]) return divObj[book][normChapter];
+        if (divObj[book]?.[String(chapter)]) return divObj[book][String(chapter)];
         for (const sub of Object.keys(divObj)) {
-            if (divObj[sub]?.[book]?.[chapter]) return divObj[sub][book][chapter];
+            if (divObj[sub]?.[book]?.[normChapter]) return divObj[sub][book][normChapter];
+            if (divObj[sub]?.[book]?.[String(chapter)]) return divObj[sub][book][String(chapter)];
         }
         return null;
     }
@@ -486,6 +505,13 @@ document.addEventListener('DOMContentLoaded', () => {
         searchResults.innerHTML = '';
 
         // If a specific chapter provided and exists, jump directly
+        if (chapterIfAny) {
+            const chapterKey = findChapterKey(meta.chapters, chapterIfAny);
+            if (chapterKey) {
+                displayChapter(division, bookName, chapterKey, subsection || null);
+                return true;
+            }
+        }
         if (chapterIfAny && meta.chapters.has(String(chapterIfAny))) {
             displayChapter(division, bookName, String(chapterIfAny), subsection || null);
             return true;
